@@ -1,0 +1,5096 @@
+   2169 ONBOARD DEV EXTENDED DATA
+   2225 BATTERY DATA
+   2257 MEMORY DATA
+   2281 ONBOARD DEV DATA
+   2321 SLOTS DATA
+   2345 CPU DATA
+   2369 CHASSIS DATA
+   2401 BASEBOARD DATA
+   2433 Setup
+   2449 NBPlatformData
+   4445 PlatformGOPPolicy
+   6336 Intel(R) Ivy Bridge Graphics Controller
+   6496 Intel(R) GOP Driver
+   6624 1002
+   6656 LVDS
+   6680 HDMI
+   6712 UNKNOWN MONITOR
+  43428 IntelIvbGopDriver
+  45320 Intel(R) Sandy Bridge Graphics Controller
+  45480 Intel(R) GOP Driver
+  45608 1007
+  45640 LVDS
+  45664 HDMI
+  45696 UNKNOWN MONITOR
+  82284 IntelSnbGopDriver
+ 228537 MemoryOverwriteRequestControl
+ 228601 Setup
+ 228665 ONBOARD DEV EXTENDED DATA
+ 228721 BATTERY DATA
+ 228753 MEMORY DATA
+ 228777 ONBOARD DEV DATA
+ 228817 SLOTS DATA
+ 228841 CPU DATA
+ 228865 CHASSIS DATA
+ 228897 BASEBOARD DATA
+ 233269 TcgDxe
+ 242361 ONBOARD DEV EXTENDED DATA
+ 242417 BATTERY DATA
+ 242449 MEMORY DATA
+ 242473 ONBOARD DEV DATA
+ 242513 SLOTS DATA
+ 242537 CPU DATA
+ 242561 CHASSIS DATA
+ 242593 BASEBOARD DATA
+ 242977 SetupCpuFeatures
+ 243017 Setup
+ 246525 CpuDxe
+ 274289 File System [
+ 274345 UnKnown 
+ 274385 FAT File System
+ 274417 AMI File System Driver
+ 278589 FileSystem
+ 309755 =~<<
+ 310151 =~?<
+ 649481 Boot%04X
+ 649505 UEFI: 
+ 649521 ONBOARD DEV EXTENDED DATA
+ 649577 BATTERY DATA
+ 649609 MEMORY DATA
+ 649633 ONBOARD DEV DATA
+ 649673 SLOTS DATA
+ 649697 CPU DATA
+ 649721 CHASSIS DATA
+ 649753 BASEBOARD DATA
+ 649913 %S(%X)
+ 649937 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+ 650193 Generic PS/2 Keyboard
+ 650241 IBM Keyboard, PS/2 Mouse Support
+ 650313 Generic PS/2 Mouse
+ 650353 Logitech PS/2 Mouse
+ 650393 Microsoft PS/2 Mouse
+ 650441 PS/2 Controller
+ 650473 ConInDev
+ 650497 ConOutDev
+ 650521 Setup
+ 650545 AMI Generic LPC Super I/O Driver
+ 650617 PNP%04X_%X_VV
+ 650649 PNP%04X_%X_NV
+ 650689 Ps2KeyboardDetectRecord
+ 650737 Ps2MouseDetectRecord
+ 650785 SIO_DEV_STATUS_VAR
+ 650825 ConIn
+ 650841 ConOut
+ 650857 Driver%04X
+ 650881 DriverOrder
+ 650905 ErrOut
+ 650921 ErrOutDev
+ 650945 Timeout
+ 650961 BootOrder
+ 650985 OldLegacyDevOrder
+ 651025 LegacyDevOrder
+ 651065 Unknown Device
+ 651097 AmiCapUp
+ 651121 American Megatrends
+ 651161 AMI PS/2 Driver
+ 651241 VALUE=
+ 651257 WIDTH=
+ 651273 OFFSET=
+ 651289 ALTCFG=
+ 651305 PATH=
+ 651321 NAME=
+ 651337 GUID=
+ 651465 0123456789abcdef
+ 651505 PlatformLang
+ 651537 Sata
+ 651561 Offset
+ 651577 FvFile
+ 651601 Media
+ 651617 VenMEDIA
+ 651641 CDROM
+ 651665 Vlan
+ 651681 iSCSI
+ 651697 Unit
+ 651713 UsbWwid
+ 651729 UsbTestAndMeasurement
+ 651777 UsbIrdaBridge
+ 651809 UsbDeviceFirmwareUpdate
+ 651857 UsbWireless
+ 651881 UsbDiagnostic
+ 651913 UsbVideo
+ 651937 UsbSmartCard
+ 651969 UsbCDCData
+ 651993 UsbHub
+ 652009 UsbMassStorage
+ 652041 UsbPrinter
+ 652065 UsbImage
+ 652089 UsbHID
+ 652105 UsbCDCControl
+ 652137 UsbAudio
+ 652161 UsbClass
+ 652185 Uart
+ 652201 IPv6
+ 652217 IPv4
+ 652241 DebugPort
+ 652273 UartFlowCtrl
+ 652305 VenUtf8
+ 652321 VenVt100Plus
+ 652353 VenVt100
+ 652377 VenPcAnsi
+ 652401 VenMsg
+ 652417 Infiniband
+ 652457 I1394
+ 652473 Fibre
+ 652489 Scsi
+ 652513 AcpiExp
+ 652529 AcpiEx
+ 652545 ParallelPort
+ 652577 Serial
+ 652593 Keyboard
+ 652617 Floppy
+ 652633 PciRoot
+ 652649 Acpi
+ 652665 Ctrl
+ 652681 VenHw
+ 652697 MemoryMapped
+ 652729 PcCard
+ 652753 Master
+ 652769 Primary
+ 652785 Hardware
+ 652809 XonXoff
+ 652825 Expanded
+ 652849 External
+ 652873 SATA
+ 652889 NoTopology
+ 652929 Static
+ 652969 DEFAULT
+ 652985 CHAP_UNI
+ 653009 None
+ 653025 CRC32C
+ 653057 Network
+ 653073 PCMCIA
+ 653681 Pci(0x%x,0x%x)
+ 653713 PcCard(0x%x)
+ 653745 MemoryMapped(0x%x,0x%lx,0x%lx)
+ 653817 %02x
+ 653833 Ven%s(%g
+ 653865 DebugPort()
+ 653889 0x%x)
+ 653905 0x%x,
+ 653929 %s,%s,%s,
+ 653953 Internal
+ 653977 Direct
+ 653993 0,0,0,0,
+ 654017 NoTopology,0,0,0,
+ 654057 SAS(0x%lx,0x%lx,0x%x,
+ 654105 UartFlowCtrl(%s)
+ 654145 VenUft8()
+ 654169 VenVt100Plus()
+ 654201 VenVt100()
+ 654225 VenPcAnsi()
+ 654265 Ctrl(0x%x)
+ 654289 Acpi(0x%08x,0x%x)
+ 654329 Keyboard(0x%x)
+ 654361 ParallelPort(0x%x)
+ 654401 Serial(0x%x)
+ 654433 Floppy(0x%x)
+ 654465 PciRoot(0x%x)
+ 654497 Acpi(PNP%04x,0x%x)
+ 654537 %c%c%c%s
+ 654561 %16X
+ 654577 AcpiEx(%s,%s,0x%x,%a,%a,%a)
+ 654657 AcpiEx(%s,
+ 654681 AcpiEx(%a,
+ 654705 AcpiExp(%s,%s,%a)
+ 654745 ,0x%x
+ 654761 AcpiAdr(0x%x
+ 654793 Ata(%s,%s,0x%x)
+ 654825 Secondary
+ 654849 Slave
+ 654865 Ata(0x%x)
+ 654889 Scsi(0x%x,0x%x)
+ 654921 Fibre(0x%lx,0x%lx)
+ 654961 I1394(%016lx)
+ 654993 USB(0x%x,0x%x)
+ 655025 UsbWwid(0x%x,0x%x,0x%x,"%s")
+ 655089 Unit(0x%x)
+ 655113 (0x%x,0x%x,0x%x,0x%x)
+ 655169 UsbClass(0x%x,0x%x,0x%x,0x%x,0x%x)
+ 655249 UsbTestAndMeasurement(0x%x,0x%x,0x%x)
+ 655329 UsbIrdaBridge(0x%x,0x%x,0x%x)
+ 655393 UsbDeviceFirmwareUpdate(0x%x,0x%x,0x%x)
+ 655473 Sata(0x%x,0x%x,0x%x)
+ 655521 Sata(0x%x,0x%x)
+ 655553 I2O(0x%x)
+ 655577 ,0x%x)
+ 655593 MAC(
+ 655609 0x%x
+ 655625 ,%s,%d.%d.%d.%d)
+ 655665 DHCP
+ 655681 IPv4(%d.%d.%d.%d,
+ 655721 IPv4(%d.%d.%d.%d)
+ 655761 ,%s,%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x)
+ 655921 IPv6(%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x,
+ 656081 IPv6(%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x)
+ 656241 Infiniband(0x%x,%g,0x%lx,0x%lx,0x%lx)
+ 656337 1.5)
+ 656385 DEFAULT,
+ 656409 Uart(%ld,
+ 656433 Uart(DEFAULT,
+ 656465 reserved
+ 656489 CHAP_BI
+ 656513 iSCSI(%a,0x%x,0x%lx,
+ 656561 Vlan(%d)
+ 656585 0x%lx,0x%lx)
+ 656617 HD(%d,%s,0x%08x,
+ 656657 HD(%d,%s,%g,
+ 656689 HD(%d,%d,0,
+ 656713 CDROM(0x%x,0x%lx,0x%lx)
+ 656761 CDROM(0x%x)
+ 656785 Media(%g)
+ 656809 Fv(%g)
+ 656825 FvFile(%g)
+ 656849 Offset(0x%lx,0x%lx)
+ 656889 BBS(%s,%a
+ 656913 BBS(0x%x,%a
+ 656945 &VALUE=
+ 656961 &OFFSET=0&WIDTH=
+ 657001 &PATH=
+ 657017 &NAME=
+ 657033 &OFFSET=0&WIDTH=%x
+ 657081 PCI IDE Mass Storage Device
+ 657137 AMI IDE BUS Driver
+ 657265 IsaIrqMask
+ 657289 IsaDmaMask
+ 657313 EasyTuneSetupAddress
+ 657465 \EFI\ubuntu\grubx64.efi
+ 657513 \EFI\BOOT\BOOTX64.EFI
+ 657561 NewBootOptionIndex
+ 657601 NewBoot%04x
+ 657625 Boot%04x
+ 657649 FBO_WinBootManager
+ 657689 FBO_WinBootManagerIndex
+ 657737 Windows Boot Manager
+ 689161 mV/uS
+ 689209  Phase
+ 689225 Standard
+ 689249 Fast
+ 689265 Turbo
+ 689281 Extreme
+ 689305 eXm Perf
+ 689329 High Perf
+ 689353 Perf
+ 689369 Balanced
+ 689393 Mid PWR
+ 689417 Lite PWR
+ 692657 Enable
+ 692673 Disable
+ 692697 Profile1
+ 692721 Profile2
+ 692761 AHCI
+ 692777 RAID
+ 696577 Auto
+ 696593 Normal
+ 696609 Manual
+ 703659 ]^_`
+1786926 English
+1786943 Built-in EFI Shell
+1786982 Removable Drive
+1787015 Hard Drive
+1787038 CD/DVD Drive
+1787065 PCMCIA Device
+1787103 Network Card
+1787130 BEV Device
+1787153 Unknown Device
+1787184 ATAPI
+1787197 SCSI
+1787261 pt-BR  
+1787561 CORE_DXE
+1836433 AmiCapUp
+1836545 ONBOARD DEV EXTENDED DATA
+1836601 BATTERY DATA
+1836633 MEMORY DATA
+1836657 ONBOARD DEV DATA
+1836697 SLOTS DATA
+1836721 CPU DATA
+1836745 CHASSIS DATA
+1836777 BASEBOARD DATA
+1836809 HobRomImage
+1836833 EfiTime
+1836857 MonotonicCounter
+1836897 NvRamMailbox
+1837033 MfgDefaults
+1837057 StdDefaults
+1837097 Setup
+1850773 Runtime
+1856793 ONBOARD DEV EXTENDED DATA
+1856849 BATTERY DATA
+1856881 MEMORY DATA
+1856905 ONBOARD DEV DATA
+1856945 SLOTS DATA
+1856969 CPU DATA
+1856993 CHASSIS DATA
+1857025 BASEBOARD DATA
+1857057 %d %%
+1857073 Setup
+1857089 BootFlow
+1857233 %S(%X)
+1857257 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+1859910 English
+1859930 Recovery
+1859949 Reset NVRAM
+1859974 Set this option to reset NVRAM to default values
+1860073 Boot Block Update
+1860110 Set this option to update boot block area of the firmware
+1860227 Main Block Update
+1860264 Set this option to update Main block area of the firmware
+1860381 EC FIRMWARE Update
+1860420 Set this option to update EC area of the firmware
+1860521 Proceed with flash update
+1860574 Select this to start flash update
+1860643 Flashing...
+1860668 WARNING! BIOS Recovery mode has been detected
+1860761 WARNING! BIOS Update mode in progress...
+1860844 NEW BIOS Image Verification passed
+1860915 %r! BIOS Image %s
+1860952 Header is invalid
+1860989 Signature is invalid
+1861032 Platform Key is invalid
+1861081 Version is invalid
+1861120 is not loaded
+1861149 Flash Update Parameters
+1861198 WARNING! System firmware is being updated.
+1861285 Keyboard is locked.
+1861326 DO NOT TURN THE POWER OFF !!!
+1861387 Once firmware update is completed
+1861456 press any key to reboot the system
+1861527 system will be automatically rebooted
+1861604 Flash update progress
+1861649 Flash update status
+1861690 not started
+1861715 failed
+1861730 completed.
+1861753 Flash update is
+1861786 disabled
+1861805 Reason
+1861820 USER access level
+1861910 pt-BR  
+1862725 ReFlash
+1911297 Setup
+1911337 ONBOARD DEV EXTENDED DATA
+1911393 BATTERY DATA
+1911425 MEMORY DATA
+1911449 ONBOARD DEV DATA
+1911489 SLOTS DATA
+1911513 CPU DATA
+1911537 CHASSIS DATA
+1911569 BASEBOARD DATA
+1911689 AmiOutOfRes
+1919205 PciBus
+1959412 TPM 1.2 Device
+1960320 TPM 1.2 Device
+1963181 AmiBoardInfo
+1981901 ONBOARD DEV EXTENDED DATA
+1981957 BATTERY DATA
+1981989 MEMORY DATA
+1982013 ONBOARD DEV DATA
+1982053 SLOTS DATA
+1982077 CPU DATA
+1982101 CHASSIS DATA
+1982133 BASEBOARD DATA
+1982165 Setup
+1984337 It8728SmmFeatures
+2023393 SmramCpuDataVar
+2023465 CpuWakeUpBufferVar
+2027626 English
+2027643 Intel(R) Genuine processor
+2027698 Unknown
+2027715 Intel(R) Corporation
+2042341 CpuInitDxe
+2046293 SmmRelocDxe
+2049285 SmmRelocPeim
+2069617 SmmBaseRuntime
+2087329 SmramCpuDataVar
+2091845 SmmDisp
+2095133 SmmThunk
+2098753 To Be Filled By O.E.M.
+2098801 U3E1
+2098817 Setup
+2100645 CpuPolicyDxe
+2117729 ONBOARD DEV EXTENDED DATA
+2117785 BATTERY DATA
+2117817 MEMORY DATA
+2117841 ONBOARD DEV DATA
+2117881 SLOTS DATA
+2117905 CPU DATA
+2117929 CHASSIS DATA
+2117961 BASEBOARD DATA
+2123717 MicrocodeUpdate
+2127801 ONBOARD DEV EXTENDED DATA
+2127857 BATTERY DATA
+2127889 MEMORY DATA
+2127913 ONBOARD DEV DATA
+2127953 SLOTS DATA
+2127977 CPU DATA
+2128001 CHASSIS DATA
+2128033 BASEBOARD DATA
+2131069 CpuSmmSaveRes
+2136381 CpuSpSMI
+2159417 ONBOARD DEV EXTENDED DATA
+2159473 BATTERY DATA
+2159505 MEMORY DATA
+2159529 ONBOARD DEV DATA
+2159569 SLOTS DATA
+2159593 CPU DATA
+2159617 CHASSIS DATA
+2159649 BASEBOARD DATA
+2159681 Setup
+2159697 SbWarmResetVar
+2159729 SbPlatformData
+2159761 SetupPlatformData
+2159801 MeBiosExtensionSetup
+2159905 SbAslBufferPtrVar
+2168509 SBDXE
+2175193 ONBOARD DEV EXTENDED DATA
+2175249 BATTERY DATA
+2175281 MEMORY DATA
+2175305 ONBOARD DEV DATA
+2175345 SLOTS DATA
+2175369 CPU DATA
+2175393 CHASSIS DATA
+2175425 BASEBOARD DATA
+2175457 EfiTime
+2175473 SbWarmResetVar
+2178813 SBRun
+2186321 ONBOARD DEV EXTENDED DATA
+2186377 BATTERY DATA
+2186409 MEMORY DATA
+2186433 ONBOARD DEV DATA
+2186473 SLOTS DATA
+2186497 CPU DATA
+2186521 CHASSIS DATA
+2186553 BASEBOARD DATA
+2186585 Setup
+2186601 SbAslBufferPtrVar
+2191989 SmmChildDispatcher
+2203425 ONBOARD DEV EXTENDED DATA
+2203481 BATTERY DATA
+2203513 MEMORY DATA
+2203537 ONBOARD DEV DATA
+2203577 SLOTS DATA
+2203601 CPU DATA
+2203625 CHASSIS DATA
+2203657 BASEBOARD DATA
+2203689 Setup
+2210085 SmmChildDispatcher2
+2215457 ONBOARD DEV EXTENDED DATA
+2215513 BATTERY DATA
+2215545 MEMORY DATA
+2215569 ONBOARD DEV DATA
+2215609 SLOTS DATA
+2215633 CPU DATA
+2215657 CHASSIS DATA
+2215689 BASEBOARD DATA
+2220677 AcpiModeEnable
+2226665 ONBOARD DEV EXTENDED DATA
+2226721 BATTERY DATA
+2226753 MEMORY DATA
+2226777 ONBOARD DEV DATA
+2226817 SLOTS DATA
+2226841 CPU DATA
+2226865 CHASSIS DATA
+2226897 BASEBOARD DATA
+2226929 Setup
+2230189 SleepSmi
+2237797 ONBOARD DEV EXTENDED DATA
+2237853 BATTERY DATA
+2237885 MEMORY DATA
+2237909 ONBOARD DEV DATA
+2237949 SLOTS DATA
+2237973 CPU DATA
+2237997 CHASSIS DATA
+2238029 BASEBOARD DATA
+2238061 SbPlatformData
+2238093 Setup
+2242665 SBSMI
+2246061 PchSpiWrap
+2248137 ONBOARD DEV EXTENDED DATA
+2248193 BATTERY DATA
+2248225 MEMORY DATA
+2248249 ONBOARD DEV DATA
+2248289 SLOTS DATA
+2248313 CPU DATA
+2248337 CHASSIS DATA
+2248369 BASEBOARD DATA
+2248401 WdtPersistentData
+2250669 WdtAppDxe
+2252981 ActiveBios
+2258065 %$#"
+2259109 IoTrap
+2260389 IntelLegacyInterrupt
+2304937 PchInitDxe
+2328853 PchSmiDispatcher
+2338661 PchPcieSmm
+2344309 PchReset
+2350000 PchInit
+2350100 PchS3Peim
+2352945 PchInit
+2352961 PchS3Peim
+2353493 PchS3Support
+2359185 PCH Serial ATA Controller
+2359241 PCH Serial ATA Controller Initialization Driver
+2360189 SataController
+2363733 PchSerialGpio
+2366053 SmartTimer
+2372741 PchSmbusDxe
+2375861 SmmControl
+2385541 PchSpiSmm
+2397421 PchSpiRuntime
+2402637 PchSmbusSmm
+2405693 WdtDxe
+2421221 ONBOARD DEV EXTENDED DATA
+2421277 BATTERY DATA
+2421309 MEMORY DATA
+2421333 ONBOARD DEV DATA
+2421373 SLOTS DATA
+2421397 CPU DATA
+2421421 CHASSIS DATA
+2421453 BASEBOARD DATA
+2421485 Setup
+2421501 ME VARIABLE
+2421525 NBPlatformData
+2421557 ScramblerBaseSeed
+2421597 MrcS3Resume
+2421621 SbWarmResetVar
+2426537 NBDXE
+2431081 ONBOARD DEV EXTENDED DATA
+2431137 BATTERY DATA
+2431169 MEMORY DATA
+2431193 ONBOARD DEV DATA
+2431233 SLOTS DATA
+2431257 CPU DATA
+2431281 CHASSIS DATA
+2431313 BASEBOARD DATA
+2431345 NbAslBufferPtrVar
+2431385 Setup
+2433933 NBSMI
+2435933 ONBOARD DEV EXTENDED DATA
+2435989 BATTERY DATA
+2436021 MEMORY DATA
+2436045 ONBOARD DEV DATA
+2436085 SLOTS DATA
+2436109 CPU DATA
+2436133 CHASSIS DATA
+2436165 BASEBOARD DATA
+2436582 English
+2436599 Dummy
+2438081 MiscSubclassDxe
+2443389 PlatformLang
+2445233 UpdateMemoryRecord
+2446521 ONBOARD DEV EXTENDED DATA
+2446577 BATTERY DATA
+2446609 MEMORY DATA
+2446633 ONBOARD DEV DATA
+2446673 SLOTS DATA
+2446697 CPU DATA
+2446721 CHASSIS DATA
+2446753 BASEBOARD DATA
+2448509 LegacyRegion2
+2458749 SaPegData
+2459585 PciExpressDxe
+2469609 MemCeil.
+2470549 PciHostBridge
+2478953 Elpida
+2478969 Kingston
+2478993 Transcend
+2479017 Samsung
+2479033 Hynix/Hyundai
+2479065 Micron
+2479113 9876543210
+2479137 NvRamSpdMap
+2479177 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+2479281 %02d/%02d/%04d  %02d:%02d
+2479337 <null string>
+2480322 English
+2480339 ChannelA-DIMM0
+2480370 ChannelA-DIMM1
+2480401 ChannelB-DIMM0
+2480432 ChannelB-DIMM1
+2480463 BANK 0
+2480478 BANK 1
+2480493 BANK 2
+2480508 BANK 3
+2480523 0123456789
+2480553 0123456789ABCDEF
+2481357 SmBiosMemory
+2484781 SmmAccess
+2501673 PlatformLang
+2501713 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+2501817 %02d/%02d/%04d  %02d:%02d
+2501873 <null string>
+2507105 0123456789ABCDEF
+2508165 SaInitDxe
+2510433 BdatAccessHandler
+2525809 SaLateInitSmm
+2528189     
+2528199 @@@@
+2528209 @@@@
+2532501     
+2532511 @@@@
+2532521 @@@@
+2536785 ONBOARD DEV EXTENDED DATA
+2536841 BATTERY DATA
+2536873 MEMORY DATA
+2536897 ONBOARD DEV DATA
+2536937 SLOTS DATA
+2536961 CPU DATA
+2536985 CHASSIS DATA
+2537017 BASEBOARD DATA
+2537049 Setup
+2540053 OnboardControllerCtrl
+2565537 ONBOARD DEV EXTENDED DATA
+2565593 BATTERY DATA
+2565625 MEMORY DATA
+2565649 ONBOARD DEV DATA
+2565689 SLOTS DATA
+2565713 CPU DATA
+2565737 CHASSIS DATA
+2565769 BASEBOARD DATA
+2565801 OA3MSDMvariable
+2565865 SIO_DEV_STATUS_VAR
+2565905 Setup
+2566065 IsaIrqMask
+2577925 ACPI
+2587433 S3SS
+2587449 AcpiGlobalVariable
+2588041 AcpiGlobalVariable
+2590541 S3Save
+2596168 ONBOARD DEV EXTENDED DATA
+2596220 BATTERY DATA
+2596248 MEMORY DATA
+2596272 ONBOARD DEV DATA
+2596308 SLOTS DATA
+2596332 CPU DATA
+2596352 CHASSIS DATA
+2596380 BASEBOARD DATA
+2596520 Setup
+2596584 AcpiGlobalVariable
+2597196 S3Restore
+2619601 PCI AHCI Mass Storage Device
+2619665 AMI AHCI BUS Driver
+2623437 AHCI
+2630085 AINT13
+2640445 AhciSmm
+2653153 ONBOARD DEV EXTENDED DATA
+2653209 BATTERY DATA
+2653241 MEMORY DATA
+2653265 ONBOARD DEV DATA
+2653305 SLOTS DATA
+2653329 CPU DATA
+2653353 CHASSIS DATA
+2653385 BASEBOARD DATA
+2657525 BDRDXE
+2670357 ONBOARD DEV EXTENDED DATA
+2670413 BATTERY DATA
+2670445 MEMORY DATA
+2670469 ONBOARD DEV DATA
+2670509 SLOTS DATA
+2670533 CPU DATA
+2670557 CHASSIS DATA
+2670589 BASEBOARD DATA
+2675025 BDRSMM
+2690961 DualBIOSAttrib
+2690993 Updating the Backup BIOS... 
+2691057 The Backup BIOS version is older than the Main BIOS version. The system will update the Backup BIOS. Please 
+2691275 DO NOT turn off power or reset system, This may take few minutes.
+2691425 The Backup BIOS is corrupted. The system will be recovered from the Main BIOS. Please DO NOT turn off power 
+2691643 or reset the system, This may take few minutes.
+2691745 DUALBIOS
+2691769 Updating the Main BIOS... 
+2691825 The Main BIOS is corrupted. The system will be recovered from the Backup BIOS. Please DO NOT 
+2692013 turn off power or reset the system, This may take few minutes.
+2692265 %S(%X)
+2692289 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+2693249 ONBOARD DEV EXTENDED DATA
+2693305 BATTERY DATA
+2693337 MEMORY DATA
+2693361 ONBOARD DEV DATA
+2693401 SLOTS DATA
+2693425 CPU DATA
+2693449 CHASSIS DATA
+2693481 BASEBOARD DATA
+2698037 DualBiosDxe
+2698777 DualBiosSMM
+2711157 UsbSupport
+2715225 KbcEmul
+2759105 CpuWakeUpBufferVar
+2759145 Setup
+2759257 ONBOARD DEV EXTENDED DATA
+2759313 BATTERY DATA
+2759345 MEMORY DATA
+2759369 ONBOARD DEV DATA
+2759409 SLOTS DATA
+2759433 CPU DATA
+2759457 CHASSIS DATA
+2759489 BASEBOARD DATA
+2759521 SIO_DEV_STATUS_VAR
+2759649 IsaIrqMask
+2761175 DummyLoad
+2772061 ./3456>?`
+2836650 ?*?*?
+2839835     
+2839845 @@@@
+2839855 @@@@
+2884789 123478
+2910547  $(04678<>@DHLPQRSTUVWX\`dhlopt|
+2955697  $(,0467:<>@DHLPQRTXYZ[\`pt^dh|l8
+2980145 CSMCORE
+2993421 BIOSBLKIO
+3007169 BIOS[INT10] Video Driver
+3007873 VgaDisplayOutSelect
+3010629 CsmVideo
+3017001 AcpiGlobalVariable
+3017529 iFfsData
+3018125 iFfsDxe
+3023429 iFfsData
+3024249 iFfsSmm
+3026553 Setup
+3026569 ONBOARD DEV EXTENDED DATA
+3026625 BATTERY DATA
+3026657 MEMORY DATA
+3026681 ONBOARD DEV DATA
+3026721 SLOTS DATA
+3026745 CPU DATA
+3026769 CHASSIS DATA
+3026801 BASEBOARD DATA
+3028925 iFfsDxePolicyInit
+3041233 MeBiosExtensionSetup
+3042293 HeciDxe
+3049169 HeciSmm
+3051905 InLegacyBoot
+3052709 PlatformReset
+3055909 MdesStatusCodeDrv
+3059377 MeFwDowngrade
+3062553 ME VARIABLE
+3062585 Intel(R) Firmware Update is in progress. It may take up to 90 seconds. Please wait.
+3062761 Waiting Up to 8 Minutes For KVM FW.....
+3062841 ME FW Update Failed, please try again!
+3062921 Boot disk missing, please insert boot disk and press ENTER
+3063049 Error!! Times up and the KVM session was cancelled!!
+3063161 Error!! The request has rejected and the KVM session was cancelled!!
+3063305 MeInfoSetup
+3063329 Setup
+3064061 MePlatformPolicy
+3066069 MePciPlatform
+3070917 ME VARIABLE
+3071497 IccPlatform
+3090389 IccOverClocking
+3093161 MeInfoSetup
+3093369 MeBiosExtensionSetup
+3094125 Smbios131
+3106585 ONBOARD DEV EXTENDED DATA
+3106641 BATTERY DATA
+3106673 MEMORY DATA
+3106697 ONBOARD DEV DATA
+3106737 SLOTS DATA
+3106761 CPU DATA
+3106785 CHASSIS DATA
+3106817 BASEBOARD DATA
+3110869 MERecoveryDxe
+3387565 MouseDriver
+3391121 ONBOARD DEV EXTENDED DATA
+3391177 BATTERY DATA
+3391209 MEMORY DATA
+3391233 ONBOARD DEV DATA
+3391273 SLOTS DATA
+3391297 CPU DATA
+3391321 CHASSIS DATA
+3391353 BASEBOARD DATA
+3391385 OA3MSDMvariable
+3393301 OemActivation
+3402325 ONBOARD DEV EXTENDED DATA
+3402381 BATTERY DATA
+3402413 MEMORY DATA
+3402437 ONBOARD DEV DATA
+3402477 SLOTS DATA
+3402501 CPU DATA
+3402525 CHASSIS DATA
+3402557 BASEBOARD DATA
+3402589 Setup
+3402621 GnvsAreaVar
+3405721 AcpiPlatform
+3409545 ONBOARD DEV EXTENDED DATA
+3409601 BATTERY DATA
+3409633 MEMORY DATA
+3409657 ONBOARD DEV DATA
+3409697 SLOTS DATA
+3409721 CPU DATA
+3409745 CHASSIS DATA
+3409777 BASEBOARD DATA
+3409809 GnvsAreaVar
+3409833 Setup
+3412269 AcpiPlatformSmi
+3413825 ONBOARD DEV EXTENDED DATA
+3413881 BATTERY DATA
+3413913 MEMORY DATA
+3413937 ONBOARD DEV DATA
+3413977 SLOTS DATA
+3414001 CPU DATA
+3414025 CHASSIS DATA
+3414057 BASEBOARD DATA
+3416101 PlatformInfo
+3418821 SMBIOSUpdateData
+3438769 PowerManagement
+3444713 ONBOARD DEV EXTENDED DATA
+3444769 BATTERY DATA
+3444801 MEMORY DATA
+3444825 ONBOARD DEV DATA
+3444865 SLOTS DATA
+3444889 CPU DATA
+3444913 CHASSIS DATA
+3444945 BASEBOARD DATA
+3444977 Setup
+3444993 SetupSnbPpmFeatures
+3447405 AmiPpmPolicy
+3469945 !!! Warning !!!
+3469977 No drive found.
+3470009 Invalid BIOS image.
+3470049 File size incorrect.
+3470097 The current Flash Utility is outdated.
+3470175 Ask your vendor or visit Gigabyte Website
+3470259 (http://www.gigabyte.com) for an updated one!
+3470353 The current BIOS image is outdated.
+3470425 Ask your vendor or visit Gigabyte Website
+3470509 (http://www.gigabyte.com) for an updated one!
+3470601 BIOS ID check error.
+3470649 No file name input.
+3470689 Not able to save BIOS file successfully.
+3470809 Verifying now...
+3470849 Q-Flash
+3470865 Don't turn off power or reset system
+3470945 Updating now...
+3470977 BIOS update is completed.
+3471033 Reboot
+3471049 Power off
+3471073 Model Name : %s
+3471105 BIOS Version : %s
+3471141 BIOS Date : %02d/%02d/%d
+3471191  Checksum = %04Xh
+3471227 Are you sure to update BIOS?
+3471289 Reading file...
+3471321 File exist, over write?
+3471369 Saving now...
+3471409 %s%s
+3471425 File Name : %s
+3471457  <%s>
+3471473 %s ..
+3471489  ATAPI: %s
+3471513  Network: %s
+3471545 Floppy
+3471561  %s - Partition %d
+3471601 Unknow Device
+3471641 Select Device
+3471673 Exit Q-Flash
+3471705 Save BIOS to Drive
+3471745 Update BIOS From Drive
+3471793 Q-Flash Utility v1.03
+3471961 %S(%X)
+3471985 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+3472945 ONBOARD DEV EXTENDED DATA
+3473001 BATTERY DATA
+3473033 MEMORY DATA
+3473057 ONBOARD DEV DATA
+3473097 SLOTS DATA
+3473121 CPU DATA
+3473145 CHASSIS DATA
+3473177 BASEBOARD DATA
+3473681 en-US
+3478357 QFlash
+3489313 %s%s
+3489329 Pci(%x|%x)
+3489353 Pccard(Function%x)
+3489393 MemMap(%d:%lx-%lx)
+3489433 Ctrl(%d)
+3489457 Acpi(%08x,%x)
+3489489 Acpi(PNP%04x,%x)
+3489529 NULL)
+3489553 NULL,
+3489585 %08x,
+3489601 PNP%04x,
+3489625 AcpiEx(
+3489657 AcpiAdr(%x
+3489681 Ata(%s,%s)
+3489705 Primary
+3489721 Secondary
+3489745 Master
+3489761 Slave
+3489777 Scsi(Pun%x,Lun%x)
+3489817 Fibre(Wwn%lx,Lun%lx)
+3489865 1394(%lx)
+3489889 Usb(%x,%x)
+3489913 UsbWwid(%x,%x,%x,"WWID")
+3489969 Usb Class(%x,%x,%x,%x,%x)
+3490025 Sata(%x,%x,%x)
+3490057 Sata(%x,%x)
+3490081 I2O(%x)
+3490097 %02x
+3490113 Mac(
+3490129 IPv4(%d.%d.%d.%d:%d)
+3490185 IPv6(%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x)
+3490345 Infiniband(%x,%g,%lx,%lx,%lx)
+3490425 1.5)
+3490473 Uart(%ld,%c,
+3490505 Uart(DEFAULT,%c,
+3490553 reserved
+3490585 CHAP_BI
+3490601 CHAP_UNI
+3490633 None
+3490649 CRC32C
+3490665 iSCSI(%a,%x,%lx,
+3490705 HD(Part%d,Sig%08x)
+3490745 HD(Part%d,Sig%g)
+3490793 HD(Part%d,MBRType=%02x,SigType=%02x)
+3490873 CDROM(Entry%x)
+3490913 Media(%g)
+3490945 Offset(%lx,%lx)
+3490977 BBS-%s(%a)
+3491001 Floppy
+3491017 Harddrive
+3491041 CDROM
+3491057 PCMCIA
+3491105 Fv(%g)
+3491161 %S(%X)
+3491177 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+3494557 EzFileBrowser
+3498237 RsdpPlus
+3508081 ONBOARD DEV EXTENDED DATA
+3508137 BATTERY DATA
+3508169 MEMORY DATA
+3508193 ONBOARD DEV DATA
+3508233 SLOTS DATA
+3508257 CPU DATA
+3508281 CHASSIS DATA
+3508313 BASEBOARD DATA
+3508371 @AGIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+3508627 BCDEFH
+3512853 CmosManagerSmm
+3611673 ONBOARD DEV EXTENDED DATA
+3611729 BATTERY DATA
+3611761 MEMORY DATA
+3611785 ONBOARD DEV DATA
+3611825 SLOTS DATA
+3611849 CPU DATA
+3611873 CHASSIS DATA
+3611905 BASEBOARD DATA
+3611937 Setup
+3611953 EasyVoltageAddress
+3611993 EasyTuneSetupAddress
+3612041 EasyHealthAddress
+3612081 EasySmartFanAddress
+3615137 mV/uS
+3615185  Phase
+3615201 Standard
+3615225 Fast
+3615241 Turbo
+3615257 Extreme
+3615281 eXm Perf
+3615305 High Perf
+3615329 Perf
+3615345 Balanced
+3615369 Mid PWR
+3615393 Lite PWR
+3616585 Enable
+3616601 Disable
+3616625 Profile1
+3616649 Profile2
+3616689 AHCI
+3616705 RAID
+3623923 ]^_`
+3630561 Auto
+3630577 Normal
+3630593 Manual
+3647357 GenericComponentsSmm
+3648673 RtkNvData
+3653234 English
+3653251 Realtek Ethernet Adapter Advanced Settings
+3653338 Realtek Advanced Settings
+3653391 Realtek Ethernet Adapter Advanced Settings
+3653478 Advanced Settings
+3653515 Speed & Duplex
+3653546 Set Speed & Duplex
+3653585 Auto Negotiation
+3653620 1.0 Gbps Full Duplex
+3653663 100 Mpbs Full Duplex
+3653706 100 Mpbs Half Duplex
+3653749 10 Mpbs Full Duplex
+3653790 10 Mpbs HALF Duplex
+3653831 Config Network Address
+3653878 Config Network Address
+3653925 Network Address
+3653958 Set Network Address
+3653999 Save Advanced Settings
+3654046 Save Advanced Settings to NvRam
+3654111 Exit Advanced Settings
+3654158 Exit Advanced Settings
+3654753 Realtek Ethernet Controller
+3654809 Realtek UEFI UNDI Driver
+3654951 cOFFSET
+3655001 %s&OFFSET=0&WIDTH=%016LX
+3655097 Invalid MAC address!
+3655145 RtkConfigLinkSpeed
+3655185 RtkConfigMAcAddrEnable
+3655233 RtkConfigMacAddr
+3655273 %02X%02X%02X%02X%02X%02X
+3658569 GUID=00000000000000000000000000000000&NAME=0000&PATH=00
+3658793 GUID=
+3658809 &NAME=
+3658825 &PATH=
+3659017 %s&%s
+3701213 RtkUndiDxe
+3704361 ONBOARD DEV EXTENDED DATA
+3704417 BATTERY DATA
+3704449 MEMORY DATA
+3704473 ONBOARD DEV DATA
+3704513 SLOTS DATA
+3704537 CPU DATA
+3704561 CHASSIS DATA
+3704593 BASEBOARD DATA
+3704625 ECRev2
+3704641 ECRev1
+3706573 SMBiosBoard
+3724899 uONBOARD DEV EXTENDED DATA
+3724957 BATTERY DATA
+3724989 MEMORY DATA
+3725013 ONBOARD DEV DATA
+3725053 SLOTS DATA
+3725077 CPU DATA
+3725101 CHASSIS DATA
+3725133 BASEBOARD DATA
+3725165 Lang
+3725181 LangCodes
+3731745 SMBios64
+3735357 SmbiosGetFlashData64
+3752713 ONBOARD DEV EXTENDED DATA
+3752769 BATTERY DATA
+3752801 MEMORY DATA
+3752825 ONBOARD DEV DATA
+3752865 SLOTS DATA
+3752889 CPU DATA
+3752913 CHASSIS DATA
+3752945 BASEBOARD DATA
+3756205 SmbiosDMIEdit
+3771285 Boot%04X
+3771309 Boot%04x
+3771333 BootOrder
+3771357 USB_POINT
+3771501 %S(%X)
+3771517 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+3771645 ONBOARD DEV EXTENDED DATA
+3771701 BATTERY DATA
+3771733 MEMORY DATA
+3771757 ONBOARD DEV DATA
+3771797 SLOTS DATA
+3771821 CPU DATA
+3771845 CHASSIS DATA
+3771877 BASEBOARD DATA
+3777457 SMIFlash
+3781913 ONBOARD DEV EXTENDED DATA
+3781969 BATTERY DATA
+3782001 MEMORY DATA
+3782025 ONBOARD DEV DATA
+3782065 SLOTS DATA
+3782089 CPU DATA
+3782113 CHASSIS DATA
+3782145 BASEBOARD DATA
+3782177 HiiDB
+3784669 SmiVariable
+3788413 TcgDxeplatform
+3791793 AMITCGPPIVAR
+3791825 MemoryOverwriteRequestControl
+3793909 TCGSmm
+3799613 TcgLegacy
+3820625 Boot%04x
+3820649 BootOrder
+3820785 TcgINTPPI
+3820809 PlatformLang
+3820841 , and 
+3820857  and 
+3820881 AMITSESetup
+3820917  Error trying to complete TPM request.
+3821001 AMITCGPPIVAR
+3821057 %S(%X)
+3821073 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+3821185 Setup
+3821201 TpmEnableOld
+3826526 English
+3826543 A configuration change was requested to 
+3826626  the TPM
+3826645 Press F12 to 
+3826674 Press F10 to 
+3826703 WARNING: This request will remove any keys stored in the TPM
+3826826 WARNING: This request will remove any keys stored in the TPM. You will lose all created keys and access to data encrypted by these keys
+3827099 WARNING: Doing so might prevent security applications that rely on the TPM from functioning as expected
+3827308 Press Esc to reject this change request and continue
+3827415 enable
+3827430 disable
+3827447 activate
+3827466 deactivate
+3827489 allow creation of an operator authentication value that permits temporary deactivation of
+3827670 disallow a user to take ownership of
+3827745 clear
+3827758 ???clear
+3827777 allow the Operation System to provision the computer's TPM (Trusted Platform Module) without asking for user confirmation in the future.
+3828052 approve future Operating System requests to provision the TPM
+3828177 allow the Operation System to clear the computer's TPM (Trusted Platform Module) without asking for user confirmation in the future.
+3828444 approve future Operating System requests to clear the TPM
+3828561 This action will turn on the the computer's TPM (Trusted Platform Module)
+3828710 This action will turn off the the computer's TPM (Trusted Platform Module)
+3828861 This action will clear and turn on the the computer's TPM (Trusted Platform Module)
+3829030 allow the Operation System to Maintain the computer's TPM (Trusted Platform Module) without asking for user confirmation in the future.
+3829303 approve future Operating System requests to Maintain the TPM
+3829426                                                                                 
+3829593 AmiTcgPlatformDxe
+4095049 Flash Type/Size : %s  %dMB
+4095105 BIOS Date : %s
+4095137 03/23/2012
+4095161 BIOS Version : %s
+4095209 Model Name : %s
+4095241 B75M-D3H
+4095265 Q-Flash
+4095281 Enter Q-Flash Utility?
+4095329 Save Profile
+4095361 Profile %d Saved
+4095401 Profile%x
+4095425 Profile %d Loaded
+4095465 Load Profile
+4095497 Profile Not Found
+4095537 TPMBootFlow
+4095561 BootFlow
+4095609 PlatformLang
+4095641 PlatformLangCodes
+4095681 Setup
+4095697 ONBOARD DEV EXTENDED DATA
+4095753 BATTERY DATA
+4095785 MEMORY DATA
+4095809 ONBOARD DEV DATA
+4095849 SLOTS DATA
+4095873 CPU DATA
+4095897 CHASSIS DATA
+4095929 BASEBOARD DATA
+4095961 keyXXXX
+4095977 Key[0-9a-f][0-9a-f][0-9a-f][0-9a-f]
+4096097 Snap Shot Windows Failed.
+4096153 Can't Create USB File : %s
+4096209 %02d%02d%02d%02d.BMP
+4096257 Can not detected USB key.
+4096313 %02d%02d%02d%02d%02d%02d.BMP
+4096377 Screen Capture Status
+4096425 Screen Capture Success. Image saved in [%s]:[\%s]
+4096529 PIC%03d.BMP
+4096553 BootOrder
+4096577 BootNext
+4096601 Disabled in BBS Order
+4096649 en-US
+4096665 LegacyDevOrder
+4096697 Boot%04X
+4096721 BootOptionSupport
+4096761 BootNowCount
+4096793 BootManager
+4096817 UEFI: 
+4096833 BOOTXXXX
+4096857 boot[0-9a-f][0-9a-f][0-9a-f][0-9a-f]
+4096937 BootCurrent
+4096969                                            
+4097065 BBS MENU
+4097097 Floppy
+4097113 CDROM
+4097129 Hard Drive
+4097153 Network
+4097169 BEV Device
+4097193 Unknown
+4097217 DisabledDevs
+4097249 LegacyGroup
+4097289 DynamicPageCount
+4097329 &PATH=
+4097345 &NAME=
+4097361 GUID=
+4097377 &OFFSET=0&WIDTH=%x
+4097417 &OFFSET=0&WIDTH=
+4097457 &VALUE=
+4097473 Driver At Handle %x
+4097513 %s     %s
+4097537 Controller %x Child %x
+4097585 DriverHlthEnable
+4097625 DriverHealthCount
+4097673 DrvHealthCtrlCnt
+4097713 SendForm Unsupported
+4097769 SendForm Not suppored Nestedly or from Valid Setup Context!
+4097889 &WIDTH=
+4097905  Unrecoverable Error
+4097953 setup
+4097977 Reached TSE Maximum supported variables
+4098057 Reached TSE Maximum supported Controls
+4098161 False
+4098177 True
+4098201 false
+4098217 true
+4098321  %s 
+4098337       
+4098353     
+4098537 %S(%X)
+4098553 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+4098657 1st 1394 MAC Address
+4098705 LAN MAC Address
+4098737 8A01AG0R
+4098761 BIOS ID
+4098777 BIOS Date
+4098801 BIOS Version
+4098833 Model Name
+4098865 VenMedia(%g)\
+4098897 CDROM(Entry%x)\
+4098929 VenMsg(%g)\
+4098953 SCSI(%x,%x)\
+4098985 ATA(%s,%s)\
+4099009 VenHw(%g)\
+4099033 Pccard(Socket %x)\
+4099073 PCI(%X|%X)\
+4099129 USB(%x,%x)\
+4099153 HD(Part%d,Sig%08X)
+4099193 HD(Part%d,Sig%g)
+4099241 HD(Part%d,MBRType=%02x,SigType=%02x)
+4099321 RESERVED_ADD_DEL_BOOT_OPTION_NAME
+4099393 BootXXXX
+4099417 %d.%sMHz
+4099449 Flash capacity is different!!
+4099509 Press [Enter] to continue.
+4099577 BIOS successfully swapped.
+4099631 Press [Enter] to power off system.
+4099705 BIOS successfully copied.
+4099757 Press [Enter] to power off system.
+4099833 BIOS successfully recovered.
+4099891 Press [Enter] to power off system.
+4099961 Updating Main BIOS... 
+4100009 !! Don't turn off power or reset system !!
+4100097 Updating Backup BIOS... 
+4100153 Updating BIOS... 
+4100201 Press [Enter] to start BIOS swap.
+4100281 Press [Enter] to start copying Main BIOS to Backup BIOS.
+4100409 1.Remove fixture or change jumper.     
+4100489 2.Press [Enter] to start BIOS recovery.
+4100569 Loading Backup BIOS... 
+4100617 Loading Main BIOS... 
+4100665 Swap Main and Backup
+4100713 Copy Main to Backup
+4100753 Loading BIOS... 
+4100793 !! Don't remove fixture !!
+4100849 Recover BIOS from fixture
+4100905 The system has experienced a boot failure
+4100989  possibly due to incorrect configuration.
+4101073  Previous settings in BIOS may not be
+4101149  compatible. with current hardware state 
+4101241 Current Memory Speed : %d.%dMHz
+4101305 Current BCLK : %d.%dMHz
+4101353 Current CPU Speed : %d.%dMHz
+4101417 with current hardware state
+4101481 Previous settings in BIOS may not be compatible.
+4101593 possibly due to incorrect configuration.
+4101689 The system has experienced a boot failure
+4101777 Boot failure detected
+4101825 System Information
+4101865 N/A%s
+4101881 %02X%02X%02X%02X%02X%02X%s
+4101937 Processor Clock%s
+4101977 Processor Speed%s
+4102017 %s%s
+4102033 %Xh%s
+4102049 Processor CPUID%s
+4102089 Processor Type%s
+4102129 LAN MAC Address%s
+4102169 BIOS ID%s
+4102193 BIOS Date%s
+4102217 BIOS Version%s
+4102249 Model Name%s
+4102281 %d MB%s
+4102297 Installed Memory%s
+4102337 %s%s 
+4102361 DefaultLegacyDevOrder
+4102409 DefaultBootOrder
+4102449 SystemAccess
+4102481             
+4102513   Back  
+4102545                       
+4102593                      
+4102649 [%s]
+4102673 %s%d%s
+4102689 %s%d.%s%s
+4102713 %s%x%s
+4102729 [  :  :  ]
+4102753 XX/XX/XXXX]
+4102777 XXXX/XX/XX]
+4102801 [%s 
+4102817 %c %s
+4103777 MfgDefaults
+4103801 StdDefaults
+4103825 %s %s
+4103841 LegacyDev
+4103881 MfgDefaults
+4103905 StdDefaults
+4111849 \EFI\BOOT\BOOTX64.EFI
+4111897 Boot%04x
+4113385 Healthy
+4113431 Repair Required
+4113477 Configuration Required
+4113523 Failed
+4113569 Reconnect Required
+4113615 Reboot Required
+4116729 DevicePath(Type %x, SubType %x)
+4119185 /012345
+4121519  '-46
+4121533 !&.37<
+4121547 "%/28;=#$019:>?
+4179958 English
+4179975 Aptio Setup Utility - Copyright (C) 2011 American Megatrends, Inc.
+4180110 Copyright (C) 2011 American Megatrends, Inc.
+4180201 EVALUATION COPY.
+4180236 Press <DEL> or <F2> to enter setup.
+4180309 Entering Setup...
+4180346 General Help
+4180381       : Move
+4180409 Enter     : Select
+4180449 +/-/PU/PD : Change Opt.
+4180499 ESC       : Exit
+4180535 F1        : General Help
+4180587 F5        : Previous Values
+4180645 F7        : Optimized Defaults
+4180709 F8        : Q-Flash
+4180751 F9        : System Information
+4180815 F10       : Save & Exit Setup
+4180876 Boot Manager
+4180903 Configure boot options
+4180950 Language
+4180969 Select the default system language
+4181040 Load Previous Values
+4181083 Load Previous Values?
+4181128 Load Fail-Safe Defaults
+4181177 Load Fail-Safe Defaults
+4181226 Load Fail-Safe Defaults?
+4181277 Load Optimized Defaults
+4181326 Load Optimized Defaults
+4181375 Load Optimized Defaults?
+4181426 Save & Exit Setup
+4181463 Save Data to NVRAM
+4181502 Save configuration and exit?
+4181561 Save & reset
+4181588 Save Data to NVRAM
+4181627 Save configuration and reset?
+4181688 Save Setup Values
+4181725 Save configuration?
+4181766 Exit Without Saving
+4181807 Quit without saving?
+4181850 Reset Without Saving
+4181893 Reset without saving?
+4181938 Save Values as User Defaults
+4181997 Restore User Defaults
+4182042 Restore User Defaults?
+4182089 Enabled
+4182106 Disabled
+4182141 Item Help
+4182162 Enter Password
+4182193 Press Enter
+4182225 Cancel
+4182256 Sunday
+4182271 Monday
+4182286 Tuesday
+4182303 Wednesday
+4182324 Thursday
+4182343 Friday
+4182358 Saturday
+4182377 Enter Current Password
+4182424 Create New Password
+4182465 Confirm New Password
+4182508 Invalid Password
+4182543 ERROR
+4182556 WARNING
+4182573 Not Found
+4182594 Invalid Input Range
+4182638 Inconsistency error
+4182679 Submit error
+4182706 Please select boot device
+4182761  and 
+4182773  to move selection
+4182812 ENTER to select boot device
+4182869 ESC to boot using defaults
+4182926  and 
+4182938  to move selection
+4182978 ENTER to select boot device
+4183036 ESC to boot using defaults
+4183091 Enter Setup
+4183134 CD/DVD ROM
+4183157 Embedded Network
+4183210 Vendor Specific
+4183243 File Path
+4183264 Protocol
+4183283 Firmware File Path
+4183322 USB %d
+4183337 SCSI %d LUN %d
+4183368 Fibre Channel %ld LUN %ld
+4183421 1394 Device
+4183446 I20 (Tid: %x)
+4183475 InfiniBand Device %ld
+4183520 Vendor Specific Device
+4183567 Mac: %a
+4183584 Network IPv4 Device %d
+4183631 Network IPv6 Device %d
+4183678 UART Device (Baud Rate: %ld)
+4183737 USB %xh - Class Device
+4183784 USB %xh - Physical Device
+4183837 USB %xh - Mass Storage Device
+4183898 USB Logical Device %d
+4183943 USB SATA Device %d
+4183982 USB iSCSI Device %ld
+4184025 Primary Master
+4184056 Primary Slave
+4184085 Secondary Master
+4184120 Secondary Slave
+4184153 SATA %d
+4184170 No option to boot to.
+4184227 Hard Drive BBS Priorities
+4184280 CD/DVD ROM Drive BBS Priorities
+4184345 Floppy Drive BBS Priorities
+4184402 Network Device BBS Priorities
+4184463 BEV Device BBS Priorities
+4184516 USB Device BBS Priorities
+4184569 PCMCIA Device BBS Priorities
+4184628 Unknown Device BBS Priorities
+4184689 Boot Option Name is Reserved
+4184748 Please set Boot Option Name and File Path
+4184833 Reserved Boot Option, can not be Deleted
+4184916 AMI Progress Box
+4184951 Message Box for Progress Update
+4185016 Select a File System
+4185059 Select a File to Boot
+4185104 Driver Health
+4185133 Proceed with Reconnecting the Controller
+4185216 Proceed with Sytem Reboot
+4185269 Driver Health requested Rebooting.....
+4185348 BIOS has been reset - Please decide how to continue
+4185453 Load optimized defaults then boot
+4185522 Load optimized defaults then reboot
+4185595 Enter BIOS
+4185618 Setup Profile
+4185647 Setup Profile 1
+4185680 Setup Profile 2
+4185713 Setup Profile 3
+4185746 Setup Profile 4
+4185779 Save Profiles
+4185808 Save current BIOS settings to a specific profile
+4185907 Load Profiles
+4185936 Load a specific profile to current BIOS settings
+4186040 Esc : Quit                              
+4186134  : Select Item
+4186166 F10 : Save & Exit Setup
+4186225 :Move  Enter:Select  F1 :General Help
+4186303      F5 :Previous Values    F7 :Optimized Defaults  F8 :Q-Flash  F9 :System Information  F10:Save  F12:Print Screen  ESC:Exit
+4186560 : Select Screen  
+4186598 : Select Item
+4186628 Enter: Select
+4186658 +/-/PU/PD: Change Opt.
+4186706 F1  : General Help
+4186746 F5  : Previous Values
+4186792 F7  : Optimized Defaults
+4186844 F8  : Q-Flash
+4186874 F9  : System Information
+4186926 F10 : Save & Exit
+4186964 F12 : Print Screen
+4187004 ESC : Exit
+4187031 : Select Screen  
+4187069 /Click: Select Item
+4187111 Enter/Dbl Click: Select
+4187161 +/-/PU/PD: Change Opt.
+4187209 F1  : General Help
+4187249 F5  : Previous Values
+4187295 F7  : Optimized Defaults
+4187347 F8  : Q-Flash
+4187377 F9  : System Information
+4187429 F10 : Save & Exit
+4187467 F12 : Print Screen
+4187507 ESC/Right Click: Exit
+4187556 : Select Screen  
+4187594 /Click: Select Item
+4187636 Enter/Dbl Click: Select
+4187686 +/-/PU/PD: Change Opt.
+4187734 F1  : 3D Mode
+4187764 F5  : Previous Values
+4187810 F7  : Optimized Defaults
+4187862 F8  : Q-Flash
+4187892 F9  : System Information
+4187944 F10 : Save & Exit
+4187982 F12 : Print Screen
+4188022 ESC/Right Click: Exit
+4188067 Abandon all Data
+4188102 Abandon all Data
+4188190 pt-BR  
+4188216 cke <DEL> oder <F2>, um in das BIOS zu gelangen.
+4188315 BIOS wird aufgerufen...
+4188364 Generelle Hilfe
+4188405       : bewegen
+4188439 Enter     : Auswahl
+4188481 +/-/PU/PD : Optionen 
+4188525 ndern
+4188539 ESC       : Beenden
+4188581 F1        : Generelle Hilfe
+4188639 F5        : Vorherige Werte
+4188697 F7        : Optimale Standardeinstellungen
+4188785 F8        : Q-Flash
+4188827 F9        : System Information
+4188891 F10       : Einstellungen speichern & beenden
+4188987 Standardeinstellungen laden
+4189044 Standardeinstellungen laden
+4189101 Standardeinstellungen laden?
+4189160 Einstellungen speichern & beenden
+4189232 Einstellungen speichern und beenden?
+4189307 Speichern & zur
+4189339 cksetzen
+4189361 Konfiguration speichern und zur
+4189425 cksetzen?
+4189449 Beenden ohne speichern
+4189496 Beenden ohne speichern?
+4189548 Aktiviert
+4189569 Deaktiviert
+4189613 Passwort eingeben
+4189656 cke Enter
+4189687 NEIN
+4189698 Sonntag
+4189715 Montag
+4189730 Dienstag
+4189749 Mittwoch
+4189768 Donnerstag
+4189791 Freitag
+4189808 Samstag
+4189828 Festplatten BBS Priorit
+4189888 Profil speichern
+4189926 Profile laden
+4189958 Esc : Verlassen                         
+4190052  : Element ausw
+4190084 hlen
+4190096 F10 : Einstellungen speichern & beenden
+4190187 :bewegen  Enter:Auswahl  F1 :Generelle Hilfe
+4190279      F5 :Vorherige Werte    F7 :Optimale Standardeinstellungen  F8 :Q-Flash  F9 :System Information  F10:Speichern  F12:Print Screen  ESC:Beenden
+4190576 : Bildschirmauswahl
+4190622 : Element ausw
+4190652 hlen
+4190664 Enter: Auswahl
+4190696 +/-/PU/PD: Optionen 
+4190738 ndern
+4190752 F1  : Generelle Hilfe
+4190798 F5  : Vorherige Werte
+4190844 F7  : Optimale Standardeinstellungen
+4190920 F8  : Q-Flash
+4190950 F9  : System Information
+4191002 F10 : Save & Exit
+4191040 F12 : Print Screen
+4191080 ESC : Beenden
+4191113 : Bildschirmauswahl
+4191159 /Click: Element ausw
+4191201 hlen
+4191213 Enter/Dbl Click: Auswahl
+4191265 +/-/PU/PD: Optionen 
+4191307 ndern
+4191321 F1  : Generelle Hilfe
+4191367 F5  : Vorherige Werte
+4191413 F7  : Optimale Standardeinstellungen
+4191489 F8  : Q-Flash
+4191519 F9  : System Information
+4191571 F10 : Save & Exit
+4191609 F12 : Print Screen
+4191649 ESC/Right Click: Beenden
+4191704 : Bildschirmauswahl
+4191750 /Click: Element ausw
+4191792 hlen
+4191804 Enter/Dbl Click: Auswahl
+4191856 +/-/PU/PD: Optionen 
+4191898 ndern
+4191912 F1  : 3D Mode
+4191942 F5  : Vorherige Werte
+4191988 F7  : Optimale Standardeinstellungen
+4192064 F8  : Q-Flash
+4192094 F9  : System Information
+4192146 F10 : Save & Exit
+4192184 F12 : Print Screen
+4192224 ESC/Right Click: Beenden
+4192387  (C) 2011 American Megatrends, Inc.
+4192477  <DEL> 
+4192497  <F2> 
+4192622       : 
+4192664 Enter     : 
+4192702 +/-/PU/PD : 
+4192746 ESC       : 
+4192784 F1        : 
+4192826 F5        : 
+4192892 F7        : 
+4192962 F8        : Q-Flash
+4193004 F9        : 
+4193072 F10       : 
+4193831  Enter
+4194159 Esc : 
+4194181                              
+4194273 F10 : 
+4194356   Enter:
+4194382   F1 :
+4194412      F5 :
+4194468     F7 :
+4194526   F8 :Q-Flash  F9 :
+4194604   F10:
+4194634   F12:Print Screen  ESC:
+4194753 Enter: 
+4194785 +/-/PU/PD: 
+4194827 F1  : 
+4194857 F5  : 
+4194911 F7  : 
+4194969 F8  : Q-Flash
+4194999 F9  : 
+4195055 F10 : 
+4195105 F12 : Print Screen
+4195145 ESC : 
+4195206 /Click: 
+4195240 Enter/Dbl Click: 
+4195292 +/-/PU/PD: 
+4195334 F1  : 
+4195364 F5  : 
+4195418 F7  : 
+4195476 F8  : Q-Flash
+4195506 F9  : 
+4195562 F10 : 
+4195612 F12 : Print Screen
+4195652 ESC/Right Click: 
+4195735 /Click: 
+4195769 Enter/Dbl Click: 
+4195821 +/-/PU/PD: 
+4195863 F1  : 3D Mode
+4195893 F5  : 
+4195947 F7  : 
+4196005 F8  : Q-Flash
+4196035 F9  : 
+4196091 F10 : 
+4196141 F12 : Print Screen
+4196181 ESC/Right Click: 
+4196310 <DEL>
+4196322 <F2>
+4196399       : 
+4196425 Enter     : 
+4196457 +/-/PU/PD : 
+4196499 ESC       : 
+4196531 F1        : 
+4196571 F5        : 
+4196607 F7        : 
+4196651 F8        : Q-Flash
+4196693 F9        : 
+4196733 F10       : 
+4197084 Enter
+4197278 Esc : 
+4197294                               
+4197392 F10 : 
+4197441   Enter:
+4197461   F1 :
+4197489      F5 :
+4197515     F7 :
+4197547   F8 :Q-Flash  F9 :
+4197597   F10:
+4197613   F12:Print Screen  ESC:
+4197742 +/-/PU/PD: 
+4197782 F1  : 
+4197810 F5  : 
+4197834 F7  : 
+4197866 F8  : Q-Flash
+4197896 F9  : 
+4197924 F10 : 
+4197952 F12 : Print Screen
+4197992 ESC : 
+4198111 +/-/PU/PD: 
+4198151 F1  : 
+4198179 F5  : 
+4198203 F7  : 
+4198235 F8  : Q-Flash
+4198265 F9  : 
+4198293 F10 : 
+4198321 F12 : Print Screen
+4198361 ESC/
+4198490 +/-/PU/PD: 
+4198530 F1  : 3D Mode
+4198560 F5  : 
+4198584 F7  : 
+4198616 F8  : Q-Flash
+4198646 F9  : 
+4198674 F10 : 
+4198702 F12 : Print Screen
+4198742 ESC/
+4198839 Aptio 
+4198873  (C) 2011 American Megatrends, Inc.
+4198954  (C) 2011 American Megatrends, Inc.
+4199032  <DEL> 
+4199048  <F2> 
+4199066 BIOS
+4199117       : 
+4199141 Enter     : 
+4199173 +/-/PU/PD : 
+4199211 ESC       : 
+4199243 F1        : 
+4199295 F5        : 
+4199335 F7        : 
+4199375 F8        : Q-Flash
+4199417 F9        : 
+4199453 F10       : 
+4199487 BIOS
+4199621 BIOS
+4199793  Enter
+4199917  Profiles
+4199945  Profiles
+4199969 Esc : 
+4199985                               
+4200077 F10 : 
+4200099 BIOS
+4200130   Enter:
+4200150   F1 :
+4200190      F5 :
+4200220     F7 :
+4200248   F8 :Q-Flash  F9 :
+4200294   F10:
+4200310   F12:Print Screen  ESC:
+4200405 Enter: 
+4200427 +/-/PU/PD: 
+4200463 F1  : 
+4200503 F5  : 
+4200531 F7  : 
+4200559 F8  : Q-Flash
+4200589 F9  : 
+4200613 F10 : 
+4200635 BIOS
+4200651 F12 : Print Screen
+4200691 ESC : 
+4200734 /Click: 
+4200762 Enter/Dbl Click: 
+4200804 +/-/PU/PD: 
+4200840 F1  : 
+4200880 F5  : 
+4200908 F7  : 
+4200936 F8  : Q-Flash
+4200966 F9  : 
+4200990 F10 : 
+4201012 BIOS
+4201028 F12 : Print Screen
+4201068 ESC/Right Click: 
+4201133 /Click: 
+4201161 Enter/Dbl Click: 
+4201203 +/-/PU/PD: 
+4201239 F1  : 3D Mode
+4201269 F5  : 
+4201297 F7  : 
+4201325 F8  : Q-Flash
+4201355 F9  : 
+4201379 F10 : 
+4201401 BIOS
+4201417 F12 : Print Screen
+4201457 ESC/Right Click: 
+4201566 Aptio 
+4201600  (C) 2011 American Megatrends, Inc.
+4201681  (C) 2011 American Megatrends, Inc.
+4201759  <DEL> 
+4201775  <F2> 
+4201793 BIOS
+4201844       : 
+4201868 Enter     : 
+4201900 +/-/PU/PD : 
+4201938 ESC       : 
+4201970 F1        : 
+4202022 F5        : 
+4202062 F7        : 
+4202102 F8        : Q-Flash
+4202144 F9        : 
+4202180 F10       : 
+4202214 BIOS
+4202451 BIOS
+4202476  NVRAM 
+4202543  NVRAM 
+4202816  Enter
+4203024 Please select boot device
+4203079  and 
+4203091  to move selection
+4203130 ENTER to select boot device
+4203187 ESC to boot using defaults
+4203244  and 
+4203256  to move selection
+4203296 ENTER to select boot device
+4203354 ESC to boot using defaults
+4203409 Enter Setup
+4203463 AMI Progress Box
+4203498 Message Box for Progress Update
+4203570  Profiles
+4203598  Profiles
+4203622 Esc : 
+4203638                               
+4203730 F10 : 
+4203752 BIOS
+4203783   Enter:
+4203803   F1 :
+4203843      F5 :
+4203873     F7 :
+4203901   F8 :Q-Flash  F9 :
+4203947   F10:
+4203963   F12:Print Screen  ESC:
+4204058 Enter: 
+4204080 +/-/PU/PD: 
+4204116 F1  : 
+4204156 F5  : 
+4204184 F7  : 
+4204212 F8  : Q-Flash
+4204242 F9  : 
+4204266 F10 : 
+4204288 BIOS
+4204304 F12 : Print Screen
+4204344 ESC : 
+4204387 /Click: 
+4204415 Enter/Dbl Click: 
+4204457 +/-/PU/PD: 
+4204493 F1  : 
+4204533 F5  : 
+4204561 F7  : 
+4204589 F8  : Q-Flash
+4204619 F9  : 
+4204643 F10 : 
+4204665 BIOS
+4204681 F12 : Print Screen
+4204721 ESC/Right Click: 
+4204786 /Click: 
+4204814 Enter/Dbl Click: 
+4204856 +/-/PU/PD: 
+4204892 F1  : 3D Mode
+4204922 F5  : 
+4204950 F7  : 
+4204978 F8  : Q-Flash
+4205008 F9  : 
+4205032 F10 : 
+4205054 BIOS
+4205070 F12 : Print Screen
+4205110 ESC/Right Click: 
+4282353 Setup
+4282477 PlatformLang
+4282601 Timeout
+4282725 UserDefaults
+4282849 ErrorManager
+4282973 AMITSESetup
+4283097 IDESecDev
+4283221 BootOrder
+4283345 LegacyDevOrder
+4283469 DelBootOption
+4283593 AddBootOption
+4283717 BootManager
+4283841 BootNowCount
+4283965 LegacyDev
+4284089 AMICallback
+4284213 LegacyGroup
+4284337 SetupSaveState
+4284461 OemTSEVar
+4284585 DynamicPageCount
+4284709 DriverHlthEnable
+4284833 DriverHealthCount
+4284957 DrvHealthCtrlCnt
+4285081 Setup
+4285205 SystemAccess
+4285329 ProcMitAttrib
+4285453 MemMitAttrib
+4285577 DualBIOSAttrib
+4285701 BiosSetupType
+4285825 UsbMassDevNum
+4285949 UsbMassDevValid
+4286073 UsbSupport
+4286197 Setup
+4286321 PlatformLangCodes
+4286445 Setup
+4286569 NBPlatformData
+4286693 NetworkStackVar
+4286817 Setup
+4286941 SetupCpuFeatures
+4287065 SetupPlatformData
+4287189 SbPlatformData
+4287313 PNP0604_0_VV
+4287437 PNP0604_0_NV
+4287561 PNP0501_0_VV
+4287685 PNP0501_0_NV
+4287809 PNP0501_1_VV
+4287933 PNP0501_1_NV
+4288057 PNP0400_0_VV
+4288181 PNP0400_0_NV
+4288305 PNP0510_0_VV
+4288429 PNP0510_0_NV
+4288553 Setup
+4288677 Setup
+4288801 Setup
+4288925 Setup
+4289049 Shell
+4289173 Setup
+4289433 BootManager
+4289537 BootNowCount
+4289641 LegacyDevOrder
+4289745 AMICallback
+4289849 ErrorManager
+4289953 PlatformLangCodes
+4290057 shell.efi|shellx64.efi|shellia64.efi
+4290161 shellpbm.efi
+4290265 IDESecDev
+4290369 AddBootOption
+4290473 OemTSEVar
+4290577 DynamicPageCount
+4290681 DriverHlthEnable
+4290785 DriverHealthCount
+4290889 DrvHealthCtrlCnt
+4291229 AMITSE
+4383565 SmmRuntime
+4386101 DpcDxe
+4405329 ARP Network Service Driver
+4413077 ArpDxe
+4434217 NetworkStackVar
+4436737 Simple Network Protocol Driver
+4443317 SnpDxe
+4475057 MNP Network Service Driver
+4485429 MnpDxe
+4538305 NetworkStackVar
+4538423 )UEFI PXE Base Code Driver
+4550613 UefiPxeBcDxe
+4882767 %)+/5;=CGIOSYaegkmq
+4902777  	0	 
+4907345 IpSec Driver
+4907383 gIpSecStatus
+4907681 IpSecConfig
+4907753 %s%04d
+4907881 %s%s
+4907897 Info
+5095357 IpSecDxe
+5096569 NetworkStackVar
+5098173 NetworkStackSetupScreen
+5130249 DHCP Protocol Driver
+5142589 Dhcp4Dxe
+5158199 )IP4 CONFIG Network Service Driver
+5162786 English
+5162803 IPv4 Network Configuration
+5162858 Configure network parameters.
+5162925 Configured
+5162948 Enable DHCP
+5162973 Local IP Address
+5163008 Local NetMask
+5163037 Local Gateway
+5163066 Enter IP address in dotted-decimal notation.
+5163157 Save Changes and Exit
+5165533 Ip4ConfigDxe
+5209425 IP4 Network Service Driver
+5221509 Ip4Dxe
+5249495 )MTFTP4 Network Service
+5259557 Mtftp4Dxe
+5289329 UDP Network Service Driver
+5299365 Udp4Dxe
+5352359 )TCP_LAST_ACK
+5352393 TCP_CLOSE_WAIT
+5352425 TCP_TIME_WAIT
+5352457 TCP_CLOSING
+5352481 TCP_FIN_WAIT_2
+5352513 TCP_FIN_WAIT_1
+5352545 TCP_ESTABLISHED
+5352577 TCP_SYN_RCVD
+5352609 TCP_SYN_SENT
+5352641 TCP_LISTEN
+5352665 TCP_CLOSED
+5352777 Tcp Network Service Driver
+5362623 c&OFFSET=%04X&WIDTH=%04X
+5362673 EfiNicIp4ConfigVariable
+5365273 &PATH=
+5365289 &NAME=
+5365305 GUID=
+5371749 Tcp4Dxe
+5405897 ClientId
+5405921 DHCP6 Protocol Driver
+5415749 Dhcp6Dxe
+5490399 dIP6 Network Service Driver
+5499209 IP6_CONFIG_IFR_NVDATA
+5499514 English
+5499531 IPv6 Network Configuration
+5499586 Configure IPv6 network parameters.
+5499657 IPv6 Current Setting
+5499700 Display IPv6 network parameters.
+5499767 Interface Name    :
+5499808 The name of the interface.
+5499866 Interface Type    :
+5499907 The interface type of the network interface, defined in RFC1700.
+5500041 MAC address       :
+5500082 The hardware address of the network interface.
+5500180 Host addresses    :
+5500221 The address list which contain the local IPv6 addresses and the corresponding prefix length information.
+5500432 Route Table       :
+5500473 The route table of the IPv6 network stack runs on this interface.
+5500606 Gateway addresses :
+5500647 Current gateway IPv6 addresses.
+5500712 DNS addresses     :
+5500753 Current DNS server list.
+5500804 Interface ID
+5500831 The 64 bit alternative interface ID for the device. The string is colon seperated. e.g. ff:dd:88:66:cc:1:2:3
+5501050 DAD Transmit Count
+5501089 The number of consecutive Neighbor Solicitation messages sent while performing Duplicate Address Detection on a tentative address. A value of zero indicates that Duplicate Address Detection is not performed.
+5501506 Policy
+5501521 automatic or manual
+5501562 automatic
+5501583 manual
+5501598 Advanced Configuration
+5501645 Configure the interface manually. IP address, gateway address, and DNS server address can be configured.
+5501856 New IPv6 address
+5501891 Manual IP address can only be configured under manual policy. Seperate the IP address with blank space to configure more than one address. e.g. 2002::1/64 2002::2/64
+5502224 New Gateway addresses
+5502269 Gateway IP address can only be configured under manual policy. e.g. 2002::3. Seperate the IP address with blank space to configure more than one address.
+5502578 New DNS addresses
+5502615 DNS addresses can only be configured under manual policy. e.g. 2002::4. Seperate the IP address with blank space to configure more than one address.
+5502914 Save Changes and Exit
+5502959 Save Changes for interface ID, DAD transmit count, policy, and data in advanced configuration.
+5503150 Commit Changes and Exit
+5503199 Discard Changes and Exit
+5503253 Enter Configuration Menu
+5503304 Press ENTER to enter configuration menu for IPv6 configuration.
+5510469 Ip6Dxe
+5539081 MTFTP6 Network Service Driver
+5548741 Mtftp6Dxe
+5577513 UDP6 Network Service Driver
+5588101 Udp6Dxe
+5646071 )TCP_LAST_ACK
+5646105 TCP_CLOSE_WAIT
+5646137 TCP_TIME_WAIT
+5646169 TCP_CLOSING
+5646193 TCP_FIN_WAIT_2
+5646225 TCP_FIN_WAIT_1
+5646257 TCP_ESTABLISHED
+5646289 TCP_SYN_RCVD
+5646321 TCP_SYN_SENT
+5646353 TCP_LISTEN
+5646377 TCP_CLOSED
+5646401 TCP Network Service Driver
+5655807 c&OFFSET=%04X&WIDTH=%04X
+5655857 EfiNicIp4ConfigVariable
+5658457 &PATH=
+5658473 &NAME=
+5658489 GUID=
+5665541 TcpDxe
+5668057 ONBOARD DEV EXTENDED DATA
+5668113 BATTERY DATA
+5668145 MEMORY DATA
+5668169 ONBOARD DEV DATA
+5668209 SLOTS DATA
+5668233 CPU DATA
+5668257 CHASSIS DATA
+5668289 BASEBOARD DATA
+5670333 GbtCustomizeButtonSmm
+5673549 ONBOARD DEV EXTENDED DATA
+5673605 BATTERY DATA
+5673637 MEMORY DATA
+5673661 ONBOARD DEV DATA
+5673701 SLOTS DATA
+5673725 CPU DATA
+5673749 CHASSIS DATA
+5673781 BASEBOARD DATA
+5673813 Setup
+5675921 RTCWakeup
+5745861 ONBOARD DEV EXTENDED DATA
+5745917 BATTERY DATA
+5745949 MEMORY DATA
+5745973 ONBOARD DEV DATA
+5746013 SLOTS DATA
+5746037 CPU DATA
+5746061 CHASSIS DATA
+5746093 BASEBOARD DATA
+5749693 OemUsbSkipInfo
+5755009 USBRT
+5800069 USB Host Controller
+5800109 AMI USB Driver
+5800141 UsbSupport
+5800165 USB Host Controller (USBBUS)
+5800229 USB bus
+5800245 USB Mass Storage driver
+5800293 AMI USB CCID driver
+5800333 USB Hid driver
+5800373 UsbMassDevValid
+5800405 UsbMassDevNum
+5808873 UHCD
+5812881 USB Mass Storage Legacy Device
+5812945 AMI USB INT13 Driver
+5815341 USBINT13
+5817409 ONBOARD DEV EXTENDED DATA
+5817465 BATTERY DATA
+5817497 MEMORY DATA
+5817521 ONBOARD DEV DATA
+5817561 SLOTS DATA
+5817585 CPU DATA
+5817609 CHASSIS DATA
+5817641 BASEBOARD DATA
+5817673 Setup
+5820645 SmartFanCtrlDXE
+5823021 Setup
+5823037 ONBOARD DEV EXTENDED DATA
+5823093 BATTERY DATA
+5823125 MEMORY DATA
+5823149 ONBOARD DEV DATA
+5823189 SLOTS DATA
+5823213 CPU DATA
+5823237 CHASSIS DATA
+5823269 BASEBOARD DATA
+5825521 OEMDXE
+5856551 gONBOARD DEV EXTENDED DATA
+5856609 BATTERY DATA
+5856641 MEMORY DATA
+5856665 ONBOARD DEV DATA
+5856705 SLOTS DATA
+5856729 CPU DATA
+5856753 CHASSIS DATA
+5856785 BASEBOARD DATA
+5856817 UEFI %d.%d
+5856841 03/23/2012
+5856865 8A01AG0R
+5856889 B75M-D3H
+5856921 %d.%d.%d.%d
+5856953 American Megatrends
+5857001 PlatformLastLangCodes
+5857049 PlatformLastLang
+5857089 Lang
+5857105 PlatformLang
+5857137 LangCodes
+5857161 PlatformLangCodes
+5857201 BiosSetupType
+5857265 %d kB x %i
+5857289 %d kB
+5857313 %d MHz
+5857361 Range: %d - %d.  If out of range ratio, maximum ratio is used. This sets the boot ratio. Non-ACPI OSes will use this ratio.
+5857617 Range: %d - %d. If out of range ratio, maximum or minimum ratio is used. This sets the maximum ratio.
+5857825 Non Turbo Range: %d - %d. Turbo ratio: %d. If out of range ratio, maximum or minimum ratio is used. This sets the maximum ratio.
+5858175 nSbPlatformData
+5858529 x%d  Gen%1d
+5858553 X%d  Gen%1d
+5858577 NBPlatformData
+5858609 Setup
+5858625 %02X%02X
+5858649 %a (0x%X)
+5858689 Supported
+5858713 IvyBridge
+5858737 %4d Mhz
+5858753 %4d MB (DDR3)
+5858785 MemMitAttrib
+5858817 ProcMitAttrib
+5858849 %d.%sMHz
+5858873 %s%4d.%s%s
+5858897 %s%d%s
+5858913 %s-%s
+5858929 %s%s
+5858945 CPU Core(s)%s
+5858977 %s%s%s
+5858993 %s%d.%sMHz%s
+5859025 BCLK%s
+5859041 %stRFC%s
+5859065 %stWTR%s
+5859089 %stRRD%s
+5859113 %stRTP%s
+5859137 %stRAS%s
+5859161 %stRP%s
+5859177 %stRCD%s
+5859201 %stCL%s
+5859217 %dMB
+5859233 %s%d
+5859249 DIMM(s)%s
+5859273 %sUpdate Revision%s
+5859313 %s%08X%s
+5859337 %s%S
+5859353 %s%s%d%s
+5859377 %s%s%d.%s%s
+5859417 %4d.%s %s
+5859441 %d.%s%s
+5859457 %2d.%s V
+5859481 %d.%sV
+5859497 %6d RPM
+5859521 UsbMassDevNum
+5859633 %S(%X)
+5859649 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+5862673 en-US
+5863457                                                   
+5870062 English
+5870082 Enabled
+5870099 Disabled
+5870118 Auto
+5870129 M.I.T.
+5870144 M/B Intelligence Tweaker
+5870195 System
+5870210 System Overview
+5870243 System Information
+5870282 BIOS Vendor
+5870316 Core Version
+5870352 Compliancy
+5870384 BIOS Version
+5870420 BIOS Date
+5870450 Model Name
+5870482 BIOS ID
+5870508 System Language
+5870541 Choose the system default language
+5870612 System Date
+5870637 Set the Date. Use Tab to switch between Data elements.
+5870748 System Time
+5870773 Set the Time. Use Tab to switch between Time elements.
+5870884 Access Level
+5870911 User
+5870922 Administrator
+5870951 ATA Port Information
+5870994 ATA port information and status
+5871059 Peripherals
+5871084 Advanced Integrated Peripheral Settings
+5871165 Power Management
+5871200 Advanced Power Management Settings
+5871271 Chipset
+5871288 Chipset Settings
+5871323 BIOS Features
+5871352 Advanced BIOS Feature Settings
+5871415 Full Screen LOGO Show
+5871460 Enables or disables Full Screen LOGO Show option
+5871559 Setup Prompt Timeout
+5871602 Number of seconds to wait for setup activation key. 65535(0xFFFF) means indefinite waiting.
+5871787 Bootup NumLock State
+5871830 Select the keyboard NumLock state
+5871899 Boot Option Priorities
+5871946 Boot Option #%d
+5871979 Sets the system boot order
+5872034 Set the order of the legacy devices in this group
+5872135 Security
+5872154 Security Settings
+5872191 Password Description
+5872234 If ONLY the Administrator's password is set,
+5872325 then this only limits access to Setup and is
+5872416 only asked for when entering Setup.
+5872489 If ONLY the User's password is set, then this
+5872582 is a power on password and must be entered to
+5872675 boot or enter Setup. In Setup the User will
+5872764 have Administrator rights.
+5872819 The password length must be
+5872876 in the following range:
+5872925 Minimum length
+5872965 Maximum length
+5873005 Administrator Password
+5873052 User Password
+5873081 If ONLY the Administrator's password is set, then this only limits access to Setup and is only asked for when entering Setup. If ONLY the User's password is set, then this is a power on password and must be entered to boot or enter Setup.
+5873560 Save & Exit
+5873585 Save & Exit Options
+5873626 Exit Without Saving
+5873667 Exit system setup without saving any changes.
+5873760 Save & Exit Setup
+5873797 Reset the system after saving the changes.
+5873884 Load Optimized Defaults
+5873933 Restore/Load Default values for all the setup options.
+5874044 Boot Override
+5874073 Driver Health
+5874102 Provides Health Status for the Drivers/Controllers
+5874205 AC BACK
+5874222 Decide system behavior after retrieved power
+5874313 Memory
+5874328 Always On
+5874349 Always Off
+5874372 Power On By Keyboard
+5874415 Enabled/Disabled Power On By Keyboard Function.
+5874512 Disabled
+5874531 Keyboard 98
+5874556 Any key
+5874573 ACPI Sleep State
+5874608 Select the highest ACPI sleep state the system will enter when the SUSPEND button is pressed.
+5874797 S1 (CPU Stop Clock)
+5874838 S3 (Suspend to RAM)
+5874879 Suspend Disabled
+5874914 S3 Video Repost
+5874947 Enable or Disable S3 Video Repost
+5875016 Force to ACPI ver. 1.1
+5875063 Enable or Disable Generate only ACPI tables for version 1.1
+5875184 Enabled
+5875201 Disabled
+5875220 Trusted Computing
+5875257 Trusted Computing (TPM) settings
+5875324   TPM State
+5875349   TCM State
+5875374   TPM SUPPORT
+5875403   TCM SUPPORT
+5875432   Pwd Authentication
+5875475 Turn TPM Enable/Disable. NOTE: Your Computer will reboot during restart in order to change State of TPM.
+5875686 TPM Clear
+5875707 TCM Clear
+5875728 None
+5875739 Enable Take Ownership
+5875784 Disable Take Ownership
+5875831 Enable
+5875846 Disable
+5875863 Enabled
+5875880 Disabled
+5875899 Pending TPM operation
+5875944 Configuration
+5875973 Error reported while executing a setup request
+5876068 Current TPM Status Information
+5876131   TPM Enabled Status:
+5876176   TCM Enabled Status:
+5876221   TPM Active Status:
+5876264   TCM Active Status:
+5876307 Provides the current Capability state of the security device
+5876430 Disabled
+5876449 Activated
+5876470 Deactivated
+5876495 Enabled
+5876512   TPM Owner Status:
+5876553   TCM Owner Status:
+5876594 Provides current Ownership state. ie: Owned or Unowned
+5876705 Owned
+5876718 Unowned
+5876735 Schedule an Operation for the Security Device. NOTE: Your Computer will reboot during restart in order to change State of Security Device.
+5877014 Enables or Disables BIOS support for security device. O.S. will not show Security Device. TCG EFI protocol and INT1A interface will not be available.
+5877315   NO TPM Hardware
+5877352   TPM SUPPORT OFF
+5877389   Reset Required
+5877424 Determines whether TPM state change requires Password Authentication
+5877563 Resume by Alarm
+5877596 Enable or disable System wake on alarm event. When enabled, System will wake on the da:hr:min:sec specified
+5877813     Wake up day
+5877846 select 0-31 For example enter 3 for Day 3, 0 means everyday
+5877967     Wake up hour
+5878002 0 - 23
+5878017     Wake up minute
+5878056 0 - 59
+5878071     Wake up second
+5878110 0 - 59
+5878125 Disabled
+5878144 Enabled
+5878161 OnBoard USB3.0 Controller#1
+5878218 Disable/Enable OnBoard USB3.0 Controller
+5878301 OnBoard LAN Controller#1
+5878352 OnBoard LAN Controller#2
+5878403 Disable/Enable OnBoard LAN Controller
+5878480 CPU Configuration
+5878517 CPU Configuration Parameters
+5878576 Mismatch CPU
+5878603 Unsupported installed CPU combination.
+5878694 Max CPU Speed
+5878723 Displays the Max CPU Speed
+5878790 Min CPU Speed
+5878819 Displays the Max CPU Speed
+5878886 CPU Speed
+5878910 Displays the CPU Speed
+5878957 L1 Data Cache
+5878986 L1 Data Cache Size
+5879025 Not Present
+5879050 Not Present
+5879075 Not Present
+5879100 Not Present
+5879125 L1 Code Cache
+5879154 L1 Code Cache Size
+5879193 Not Present
+5879218 Not Present
+5879243 Not Present
+5879268 Not Present
+5879293 L2 Cache
+5879312 L2 Cache Size
+5879341 Not Present
+5879366 Not Present
+5879391 Not Present
+5879416 Not Present
+5879441 L3 Cache
+5879460 L3 Cache Size
+5879489 Not Present
+5879514 Not Present
+5879539 Not Present
+5879564 Not Present
+5879589 Processor Cores
+5879622 Displays number of cores.
+5879695 Intel HT Technology
+5879736 When Hyper-threading is enabled, 2 logical CPUS per core is present.
+5879875 Not Supported
+5879904 Not Supported
+5879933 Not Supported
+5879962 Not Supported
+5879991 Intel VT-x Technology
+5880036 CPU VMX hardware support for virtual machines.
+5880131 Not Supported
+5880160 Not Supported
+5880189 Not Supported
+5880218 Not Supported
+5880247 Intel SMX Technology
+5880290 Secure Mode extensions support.
+5880355 Not Supported
+5880384 Not Supported
+5880413 Not Supported
+5880442 Not Supported
+5880471 Displays if 64-bit supported
+5880530 64-bit
+5880545 Supported
+5880566 Microcode Patch
+5880599 CPU Microcode Patch Revision
+5880658 Not loaded
+5880681 Not loaded
+5880704 Not loaded
+5880727 Not loaded
+5880750 CPU Signature
+5880779 Displays CPU Signature
+5880838 Max Freq Ratio
+5880872 Set Boot Freq Ratio
+5880916 1-Core Ratio Limit
+5880955 This limit is for 1 core active. 0 means using the factory-configured value.
+5881110 2-Core Ratio Limit
+5881149 This limit is for 2 cores active. 0 means using the factory-configured value.
+5881306 3-Core Ratio Limit
+5881345 This limit is for 3 cores active.  0 means using the factory-configured value.
+5881504 4-Core Ratio Limit
+5881543 This limit is for 4 cores active.  0 means using the factory-configured value.
+5881702 Primary Plane Current value
+5881759 The Maximum instantaneous current allow for Primary Plane
+5881876 Secondary Plane Current value
+5881937 The Maximum instantaneous current allow for Secondary Plane
+5882058 TCC Activation offset
+5882103 Offset from the factory TCC activation temperature
+5882206 Execute Disable Bit
+5882247 XD-Bit can prevent certain classes of malicious buffer overflow attacks when combined with a supporting OS (Windows Server 2003 SP1, Windows XP SP2, SuSE Linux 9.2, RedHat Enterprise 3 Update 3.)
+5882640 Hyper-threading
+5882673 Enabled for Windows XP and Linux (OS optimized for Hyper-Threading Technology) and Disabled for other OS (OS not optimized for Hyper-Threading Technology). When Disabled only one thread per enabled core is enabled.
+5883138 Active Processor Cores
+5883185 Number of cores to enable in each processor package.
+5883292 Limit CPUID Maximum
+5883333 Disabled for Windows XP
+5883382 Hardware Prefetcher
+5883423 To turn on/off the Mid Level Cache (L2) streamer prefetcher.
+5883546 Adjacent Cache Line Prefetch
+5883605 To turn on/off prefetching of adjacent cache lines.
+5883710 Intel Virtualization Technology
+5883775 When enabled, a VMM can utilize the additional hardware capabilities provided by Vanderpool Technology.
+5883984 Enabled
+5884001 Disabled
+5884020 Onboard Device
+5884051 Onboard Device Parameters
+5884104 Onboard Device Configuration
+5884163 Onboard ATI VGA
+5884196 Enable or Disable Onboard ATI VGA
+5884265 Onboard Gigabit LAN 0
+5884310 Enable or Disable Onboard Gigabit LAN 0
+5884391 Onboard Gigabit LAN 1
+5884436 Enable or Disable Onboard Gigabit LAN 1
+5884517 LAN PXE Boot Option ROM
+5884566 Enable or Disable Boot Option for Legacy Network Devices.
+5884683 Launch Storage OpROM
+5884726 Enable or Disable Boot Options for Legacy Mass Storage Devices with Option ROM.
+5884887 Launch Video OpROM
+5884926 Enable or Disable execution of the Legacy Option ROM for video devices.
+5885071 Enabled when no UEFI driver
+5885128 PCH-IO Configuration
+5885171 PCH Parameters
+5885202 Intel PCH RC Version
+5885245 Intel PCH RC Version
+5885297 Intel PCH SKU Name
+5885336 Intel PCH SKU Name
+5885384 Intel PCH Rev ID
+5885419 Intel PCH Rev ID
+5885463 CLKRUN# Logic
+5885492 Enable the CLKRUN# logic to stop the PCI clocks.
+5885591 Display Logic
+5885620 Enable or disable the PCH Display logic.
+5885703 SB CRID
+5885720 Enable or disable SB Compatible Revision ID.
+5885811 BIOS Security Configuration
+5885868 BIOS Security Configuration settings.
+5885945 SMI Lock
+5885964 Enable or disable SMI lockdown.
+5886029 BIOS Interface Lock
+5886070 Enable or disable BIOS Interface lockdown.
+5886157 GPIO Lock
+5886178 Enable or disable GPIO lockdown.
+5886245 BIOS Lock
+5886266 Enable or disable BIOS lock enable (BLE) bit.
+5886359 RTC RAM Lock
+5886386 Enable or disable bytes 38h-3Fh in the upper and lower 128-byte bank of RTC RAM lockdown.
+5886567 SATA Configuration
+5886606 SATA Device Options Settings
+5886665 SATA Controller(s)
+5886704 Enable or disable SATA Device.
+5886767 SATA Mode Selection
+5886808 Determines how SATA controller(s) operate.
+5886904 AHCI
+5886915 RAID
+5886926 SATA Test Mode
+5886957 Enable or disable Test Mode.
+5887016 Aggressive LPM Support
+5887063 Enable PCH to aggressively enter link power state.
+5887166 SATA Controller Speed
+5887211 Indicates the maximum speed the SATA controller can support.
+5887334 Gen1
+5887345 Gen2
+5887356 Gen3
+5887367 Alternate ID
+5887394 Report alternate Device ID
+5887449 Software Feature Mask Configuration
+5887522 RAID OROM/RST driver will refer to the SWFM configuration to enable or disable the storage features.
+5887725 RAID0
+5887738 Enable or disable RAID0 feature.
+5887805 RAID1
+5887818 Enable or disable RAID1 feature.
+5887885 RAID10
+5887900 Enable or disable RAID10 feature.
+5887969 RAID5
+5887982 Enable or disable RAID5 feature.
+5888049 Intel Rapid Recovery Technology
+5888114 Enable or disable Intel Rapid Recovery Technology.
+5888217 OROM UI and BANNER
+5888256 If enabled, then the OROM UI is shown. Otherwise, no OROM banner or information will be displayed if all disks and RAID volumes are Normal.
+5888537 HDD Unlock
+5888560 If enabled, indicates that the HDD password unlock in the OS is enabled.
+5888707 LED Locate
+5888730 If enabled, indicates that the LED/SGPIO hardware is attached and ping to locate feature is enabled on the OS.
+5888953 IRRT Only on eSATA
+5888992 If enabled, then only IRRT volumes can span internal and eSATA drives. If disabled, then any RAID volume can span internal and eSATA drives.
+5889275 Smart Response Technology
+5889328 Enable or disable Smart Response Technology.
+5889419 OROM UI Delay
+5889448 If enabled, indicates the delay of the OROM UI Splash Screen in a normal status.
+5889611 2 Seconds
+5889632 4 Seconds
+5889653 6 Seconds
+5889674 8 Seconds
+5889695 Serial ATA Port 0
+5889732 Empty
+5889745 Serial ATA Port 1
+5889782 Empty
+5889795 Serial ATA Port 2
+5889832 Empty
+5889845 Serial ATA Port 3
+5889882 Empty
+5889895 Serial ATA Port 4
+5889932 Empty
+5889945 Serial ATA Port 5
+5889982 Empty
+5889995   Port 0
+5890014   Port 1
+5890033   Port 2
+5890052   Port 3
+5890071   Port 4
+5890090   Port 5
+5890109 Enable or Disable SATA Port
+5890166   Hot Plug
+5890189 Designates this port as Hot Pluggable.
+5890268   External SATA
+5890301 External SATA Support.
+5890348   Mechanical Presence Switch
+5890407 Controls reporting if this port has an Mechanical Presence Switch.
+5890547 Note: Requires hardware support.
+5890614   SATA Device Type
+5890653 Identify the SATA port is connected to Solid State Drive or Hard Disk Drive.
+5890808 Hard Disk Driver
+5890843 Solid State Drive
+5890880   Spin Up Device
+5890915 On an edge detect from 0 to 1, the PCH starts a COMRESET initialization sequence to the device.
+5891108   Software Preserve
+5891149 Unknown
+5891166 Unknown
+5891183 Unknown
+5891200 Unknown
+5891217 Unknown
+5891234 Unknown
+5891251 SATA RAID ROM
+5891280 Legacy ROM: Legacy option ROM
+5891342 UEFI Driver: UEFI Raid Driver
+5891404 Both: Run the legacy Option ROM and UEFI driver
+5891501 Legacy ROM
+5891524 UEFI Driver
+5891549 Both
+5891560 PCH Azalia Configuration
+5891611 PCH Azalia Configuration settings.
+5891682 Audio Controller
+5891717 Control Detection of the Audio device.
+5891801 Disabled = Audio will be unconditionally disabled.
+5891909 Enabled = Audio will be unconditionally Enabled.
+5892008   Azalia Docking Support
+5892059 Enable or disable Azalia Docking Support of Audio Controller.
+5892184   Azalia PME
+5892211 Enable or disable Power Management capability of Audio Controller.
+5892346   Azalia Internal HDMI Codec
+5892405 Enable or disable internal HDMI codec for Azalia.
+5892506     Azalia HDMI codec Port B
+5892565     Azalia HDMI codec Port C
+5892624     Azalia HDMI codec Port D
+5892683 Enable or disable internal HDMI codec Port for Azalia.
+5892794 USB Configuration
+5892831 USB Configuration settings
+5892886 RMH1
+5892897 Enable or disable RMH1.
+5892946 xHCI Mode
+5892967 xHCI controller operating modes.
+5893034   HS Port #1 Switchable
+5893083   HS Port #2 Switchable
+5893132   HS Port #3 Switchable
+5893181   HS Port #4 Switchable
+5893230 Allows for HS port switching between xHCI and EHCI.
+5893340 If disabled, port is routed to EHCI.
+5893420 If HS port is routed to xHCI, the corresponfing SS port is enabled.
+5893557   xHCI Streams
+5893588 Enable or disable xHCI Maximum Primary Stream Array Size.
+5893705 XHCI Pre-Boot Driver
+5893748 Enable or disable XHCI Pre-Boot Driver support.
+5893845 USB2.0 Controller
+5893882 USB2.0 Controller 2
+5893923 Control the USB EHCI (USB 2.0) functions. At least one EHCI controller must always be enabled.
+5894114 USB Per-Port Disable Control
+5894173 Control each of the USB ports (0~13) disabling.
+5894270 EHCI Connect/Disconnect Wake Up
+5894335 To wake up system by connect/disconnect USB device.
+5894440   USB Port #0 Disable
+5894485   USB Port #1 Disable
+5894530   USB Port #2 Disable
+5894575   USB Port #3 Disable
+5894620   USB Port #4 Disable
+5894665   USB Port #5 Disable
+5894710   USB Port #6 Disable
+5894755   USB Port #7 Disable
+5894800   USB Port #8 Disable
+5894845   USB Port #9 Disable
+5894890   USB Port #10 Disable
+5894937   USB Port #11 Disable
+5894984   USB Port #12 Disable
+5895031   USB Port #13 Disable
+5895078 Disable USB port.
+5895115 PCH LAN Controller
+5895154 Enable or disable PCH onboard LAN
+5895223   Wake on LAN
+5895252 Enable or disable integrated LAN to wake the system. (The Wake On LAN cannot be disabled if ME is on at Sx state.)
+5895483 Board Capability
+5895518 Board Capability - SUS_PWR_DN_ACK -> Send Disabled to PCH, DeepSx -> Show DeepSx Policies
+5895699 SUS_PWR_DN_ACK
+5895730 DeepSx
+5895754 Configure the ErP Mode configuration.
+5895831 Enabled in S5/Battery
+5895876 Enabled in S4-S5/Battery
+5895927 Enabled
+5895944 Enabled in S3-S4-S5/Battery
+5896001 PCI Express Root Port 1
+5896050 PCI Express Root Port 1 Settings.
+5896119 PCI Express Root Port 2
+5896168 PCI Express Root Port 2 Settings.
+5896237 PCI Express Root Port 3
+5896286 PCI Express Root Port 3 Settings.
+5896355 PCI Express Root Port 4
+5896404 PCI Express Root Port 4 Settings.
+5896473 PCI Express Root Port 5
+5896522 PCI Express Root Port 5 Settings.
+5896591 PCI Express Root Port 6
+5896640 PCI Express Root Port 6 Settings.
+5896709 PCI Express Root Port 7
+5896758 PCI Express Root Port 7 Settings.
+5896827 PCI Express Root Port 8
+5896876 PCI Express Root Port 8 Settings.
+5896945 PCI Express Configuration
+5896998 PCI Express Configuration settings
+5897069 ASPM Support
+5897096 Set the ASPM Level: Force L0s - Force all links to L0s State : AUTO - BIOS auto configure : DISABLE - Disables ASPM
+5897345 L0sL1
+5897358 PCI Express Clock Gating
+5897409 Enable or disable PCI Express Clock Gating for each root port.
+5897536 PCIe-USB Glitch W/A
+5897577 PCIe-USB Glitch W/A for bad USB device(s) connected behind PCIE/PEG Port.
+5897726 DMI Link ASPM Control
+5897771 The control of Active State Power Management on both NB side and SB side of the DMI Link.
+5897952 DMI Link Extended Synch Control
+5898017 The control of Extended Synch on SB side of the DMI Link.
+5898134 PCI Express Root Port 1
+5898183 PCI Express Root Port 2
+5898232 PCI Express Root Port 3
+5898281 PCI Express Root Port 4
+5898330 PCI Express Root Port 5
+5898379 PCI Express Root Port 6
+5898428 PCI Express Root Port 7
+5898477 PCI Express Root Port 8
+5898526 Control the PCI Express Root Port.
+5898597 PCIE Port 1 is assigned to LAN
+5898660 PCIE Port 2 is assigned to LAN
+5898723 PCIE Port 3 is assigned to LAN
+5898786 PCIE Port 4 is assigned to LAN
+5898849 PCIE Port 5 is assigned to LAN
+5898912 PCIE Port 6 is assigned to LAN
+5898975 PCIE Port 7 is assigned to LAN
+5899038 PCIE Port 8 is assigned to LAN
+5899101   URR
+5899114 Enable or disable PCI Express Unsupported Request Reporting.
+5899237   FER
+5899250 Enable or disable PCI Express Device Fatal Error Reporting.
+5899371   NFER
+5899386 Enable or disable PCI Express Device Non-Fatal Error Reporting.
+5899515   CER
+5899528 Enable or disable PCI Express Device Correctable Error Reporting.
+5899661   CTO
+5899674 Enable or disable PCI Express Completion Timer TO.
+5899777   SEFE
+5899792 Enable or disable Root PCI Express System Error on Fatal Error.
+5899921   SENFE
+5899938 Enable or disable Root PCI Express System Error on Non-Fatal Error.
+5900075   SECE
+5900090 Enable or disable Root PCI Express System Error on Correctable Error.
+5900231   PME SCI
+5900252 Enable or disable PCI Express PME SCI.
+5900331   Hot Plug
+5900354 Enable or disable PCI Express Hot Plug.
+5900435 PCIe Speed
+5900458 Select PCI Express port speed.
+5900521 Gen1
+5900532 Gen2
+5900543 Subtractive Decode
+5900582 Enable or disable PCI Express Subtractive Decode.
+5900683   Subtractive Decode Port#
+5900738 Select PCI Express Subtractive Decode Root Port. User to ensure port availability
+5900903 Extra Bus Reserved
+5900942 Extra Bus Reserved for bridges behind this Root Bridge.
+5901055 Reseved Memory
+5901086 Reserved Memory and Prefetchable Memory Range for this Root Bridge.
+5901223 Reserved I/O
+5901250 Reserved I/O (4K/8K/12K/16K/20K) Range for this Root Bridge.
+5901373 SLP_S4 Assertion Width
+5901420 Select a minimum assertion width of the SLP_S4# signal
+5901531 1-2 Seconds
+5901556 2-3 Seconds
+5901581 3-4 Seconds
+5901606 4-5 Seconds
+5901631 Restore AC Power Loss
+5901676 Select AC power state when power is re-applied after a power failure.
+5901817 Power On
+5901836 Power Off
+5901857 Last State
+5901880 High Precision Event Timer
+5901935 Enable or Disable the High Precision Event Timer.
+5902036 High Precision Event Timer Configuration
+5902119 Thermal Configuration
+5902164 Thermal Configuration Parameters
+5902231 Platform Thermal Configuration
+5902294 Platform Thermal Configuration options
+5902373 DPPM Configuration
+5902412 DPPM Configuration options
+5902467 DPPM
+5902478 Enable or disable Intel Dynamic Power Performance Management
+5902601 Processor Camarillo Device
+5902656 Enable or disable Processor Camarillo Device.
+5902749 MCP Camarillo Device
+5902792 CPU Camarillo Device
+5902835 PCH Camarillo Device
+5902878 Enable or disable PCH Camarillo Device.
+5902959 Active Thermal Trip Point MCH
+5903020 This value controls the temperature of the ACPI Active Thermal Trip Point for the memory controller.
+5903223 Passive Thermal Trip Point MCH
+5903286 This value controls the temperature of the ACPI Passive Thermal Trip Point for the memory controller.
+5903491 Active Thermal Trip Point Memory
+5903558 This value controls the temperature of the ACPI Active Thermal Trip Point for the memory.
+5903739 Passive Thermal Trip Point Memory
+5903808 This value controls the temperature of the ACPI Passive Thermal Trip Point for the memory.
+5903991 Active Thermal Trip Point PCH
+5904052 This value controls the temperature of the ACPI Active Thermal Trip Point for the I/O controller.
+5904249 Passive Thermal Trip Point PCH
+5904312 This value controls the temperature of the ACPI Passive Thermal Trip Point for the I/O controller.
+5904511 TSCO Enable Lock
+5904546 Lock down the Catastrophic Trip Point setting
+5904639 TSPC Enable Lock
+5904674 Lock down the Thermal Sensor Policy Control and Aux Trip Point Settings
+5904819 TS Enable Lock
+5904850 Lock down the Thermal Sensor Register Lock Control Settings
+5904971 PCH Hot Level Select
+5905014 PCHHOT#: This signal is used to indicate a PCH temperature out of bounds condition to an external EC, when PCH temperature is greater than value programmed by BIOS. An external pull-up resistor is required on this signal.
+5905459 Optional Objects
+5905494 Enable all DPPM optional objects (methods which are optional for CRB).
+5905637 Automatic Thermal Reporting
+5905694 Configure _CRT, _PSV and _AC0 automatically based on values recommended in BWG's Thermal Reporting for Thermal Management settings. Set to Disabled for manual configuration.
+5906043 Active Trip Point 1
+5906084 This value controls the temperature of the ACPI Active Trip Point 1 - the point in which the OS will turn the processor fan on Active Trip Point 1 Fan Speed.
+5906401 Active Trip Point 0
+5906442 This value controls the temperature of the ACPI Active Trip Point 0 - the point in which the OS will turn the processor fan on Active Trip Point 0 Fan Speed.
+5906759 Passive Trip Point
+5906798 This value controls the temperature of the ACPI Passive Trip Point - the point in which the OS will begin throttling the processor.
+5907063 Critical Trip Point
+5907104 This value controls the temperature of the ACPI Critical Trip Point - the point in which the OS will shut the system off.
+5907354 NOTE:  100C is the Plan Of Record (POR) for all Intel mobile processors.
+5907501 15 C
+5907512 23 C
+5907523 31 C
+5907534 39 C
+5907545 47 C
+5907556 55 C
+5907567 63 C
+5907578 71 C
+5907589 79 C
+5907600 87 C
+5907611 95 C
+5907622 103 C
+5907635 111 C
+5907648 119 C
+5907661 127 C
+5907683 Active Trip Point 0 Fan Speed
+5907744 Active Trip Point 0 Fan Speed in percentage. Value must be betwen 0 (Fan off) - 100 (Max fan speed). This is the speed at which fan will run when Active Trip Point 0 is crossed.
+5908101 Active Trip Point 1 Fan Speed
+5908162 Active Trip Point 1 Fan Speed in percentage. Value must be betwen 0 (Fan off) - 100 (Max fan speed). This value must be less than Active Trip Point 0 Fan speed. This is the speed at which fan will run when Active Trip 1 is crossed.
+5908627   Passive TC1 Value
+5908668 This value sets the TC1 value for the ACPI Passive Cooling Formula. Range 1 - 16
+5908831   Passive TC2 Value
+5908872 This value value sets the TC2 value for the ACPI Passive Cooling Formula. Range 1 - 16
+5909047   Passive TSP Value
+5909088 This item sets the TSP value for the ACPI Passive Cooling Formula.  It represents in tenths of a second how often the OS will read the temperature when passive cooling is enabled. Range 2 - 32
+5909475 ME SMBus Thermal Reporting
+5909530 Enable or disable ME SMBus Thermal Reporting Configuration
+5909649   SMBus Buffer Length
+5909694 SMBus Block Read message length for EC.
+5909816   Thermal Reporting EC PEC
+5909871 Enable Packet Error Checking (PEC) for SMBus Block Read
+5909984 Alert Enable Lock
+5910021 Lock all Alert Enable settings
+5910084   PCH Alert
+5910109 PCH Alert pin enable
+5910152   DIMM Alert
+5910179 DIMM Alert pin enable
+5910224   CPU Temp Read
+5910257 CPU Temperature Read Enable
+5910314   CPU Energy Read
+5910351 CPU Energy Read Enable
+5910398 PCH Thermal Device
+5910437 Enable or disable PCH Thermal Device(D31:F6)
+5910528   PCH Temp Read
+5910561 PCH Temperature Read Enable
+5910618   DIMM1 TS READ
+5910651 DIMM1 Thermal Sensor Read Enable
+5910718   DIMM2 TS READ
+5910751 DIMM2 Thermal Sensor Read Enable
+5910818   DIMM3 TS READ
+5910851 DIMM3 Thermal Sensor Read Enable
+5910918   DIMM4 TS READ
+5910951 DIMM4 Thermal Sensor Read Enable
+5911018 EC Turbo Control Mode
+5911063 Enable or disable EC Turbo Control mode
+5911144   AC Brick Capacity
+5911185 Specify the AC Brick capacity
+5911246   EC Polling Period
+5911287 Count 1 to 255 for a range of 10ms to 2.55 seconds (1 count = 10ms)
+5911424   EC Guard Band Value
+5911469 Count 1 to 20 for a range of 1 watt to 20 watts
+5911566   EC Algorithm Selection
+5911617 Count 1 to 10 for Algorithm Selection
+5911694 90W AC Brick
+5911721 65W AC Brick
+5911748 75W AC Brick
+5911775   Hybrid Power Boost
+5911818 Option to turn off the system charger hybrid mode on Slim River.
+5911949   Adapter Input current
+5911998 Max adapter input current in milli Amps.
+5912084 Auto
+5912095 Smart Auto
+5912118 Enabled
+5912135 Disabled
+5912154 Soft-Off by PWR-BTTN
+5912197 [Instant-Off]: Press power button to power off system instantly, [Delay 4 Sec.]: Press power button 4 sec to power off. Enter suspend if button is pressed less than 4 sec
+5912540 Instant-Off
+5912565 Delay 4 Sec.
+5912592 System Agent (SA) Configuration
+5912657 System Agent (SA) Parameters
+5912716 DMI Configuration
+5912753 Control various DMI functions.
+5912816 Internal Graphics
+5912853 Keep IGD enabled based on the setup options.
+5912944 VT-d
+5912955 Check to enable VT-d function on MCH.
+5913032 CHAP Device (B0:D7:F0)
+5913079 Enable or disable SA CHAP Device.
+5913148 Thermal Device (B0:D4:F0)
+5913201 Enable or disable SA Thermal Device.
+5913276 Enable NB CRID
+5913307 Enable or disable NB CRID WorkAround.
+5913384 BDAT ACPI Table Support
+5913433 Enables support for the BDAT ACPI table.
+5913516 C-State Pre-Wake
+5913551 Controls C-State Pre-Wake feature for ARAT, in SSKPD[57].
+5913668 IGfx Frequency
+5913708 Graphics Turbo IMON Current
+5913765 Graphics turbo IMON current values supported (14-31)
+5913872 iGPU Port Configuration
+5913921 Select to enable or disable iGPU ports 
+5914002 iGPU Digital Port B Mode
+5914053 Select mode for iGPU Digital Port B.
+5914128 iGPU Digital Port C Mode
+5914179 Select mode for iGPU Digital Port C.
+5914254 iGPU Digital Port D Mode
+5914305 Select mode for iGPU Digital Port D.
+5914380 Port is fully muxed with dGPU
+5914441 Port is not muxed with dGPU
+5914498 Port supports HPD only
+5914554 Cas Latency Range 4-18.
+5914603 tRCD
+5914614 Row to Col Delay Range 1-38.
+5914682 Ras Precharge Range 1-38.
+5914735 tRAS
+5914746 Ras Active Time 1-586.
+5914802 Min Write Recovery Time Range 1-38.
+5914875 tRFC
+5914886 Min Refresh Recovery Delay Time 1-9363.
+5914967 tRRD
+5914978 Min Row Active to Row Active Delay Time 1-38.
+5915071 tWTR
+5915082 Min Internal Write to Read Command Delay Time 1-38.
+5915187 tRTP
+5915198 Min Internal Read to Precharge Command Delay Time 1-38.
+5915320 Min Active to Active/Refresh Delay Time (tRCmin) 1-586.
+5915433 tFAW
+5915444 Min Four Activate Window Delay Time 1-586.
+5915531 Write Recovery (tWRmin)
+5915580 tWR value
+5915610 Refresh Recovery (tRFCmin)
+5915665 tRFC value
+5915697 Internal Write to Read Command (tWTRmin)
+5915780 tWTR value
+5915812 Row Active to Row Active (tRRDmin)
+5915883 tRRD value
+5915915 Internal Read to Precharge Command (tRTPmin)
+5916006 tRTP value
+5916038 DMI Link and Speed Information
+5916119 DMI Vc1 Control
+5916152 Enable or disable DMI Vc1
+5916205 DMI Vcp Control
+5916238 Enable or disable DMI Vcp
+5916291 DMI Vcm Control
+5916324 Enable or disable DMI Vcm
+5916377 DMI Link ASPM Control
+5916422 Enable or disable the control of Active State Power Management on SA side of the DMI Link.
+5916621 L0sL1
+5916634 DMI Gen 2
+5916655 Enable or disable DMI Gen 2/nAuto means Disabled for IVB A0 MB/DT and IVB B0 MB, Enabled for other CPUs.
+5916866 DMI Extended Synch Control
+5916921 Enable DMI Extended Synchronization.
+5916996 VT-d Capability
+5917029 VT-d Capability
+5917062 Unsupported
+5917087 Memory RC Version
+5917124 Memory RC Version
+5917170 System Agent Bridge name.
+5917223 System Agent Bridge Name
+5917274 SandyBridge
+5917299 System Agent RC Version
+5917348 System Agent RC Version
+5917406 Graphics Configuration
+5917453 Config Graphics Settings.
+5917506 IGFX VBIOS Version
+5917545 IGFX VBIOS Version
+5917593 Internal Graphics Memory Size
+5917681 128M
+5917692 160M
+5917703 192M
+5917714 224M
+5917725 256M
+5917736 288M
+5917747 320M
+5917758 352M
+5917769 384M
+5917780 416M
+5917791 448M
+5917802 480M
+5917813 512M
+5917824 1024M
+5917837 Select DVMT 5.0 Pre-Allocated (Fixed) Graphics Memory size used by the Internal Graphics Device.
+5918032 DVMT Total Memory Size
+5918079 Select DVMT5.0 Total Graphic Memory size used by the Internal Graphics Device.
+5918238 128M
+5918249 256M
+5918269   PEG0 - Gen X
+5918300 Configure PEG0 B0:D1:F0 Gen1-Gen3
+5918369   PEG1 - Gen X
+5918400 Configure PEG1 B0:D1:F1 Gen1-Gen3
+5918469   PEG2 - Gen X
+5918500 Configure PEG2 B0:D1:F2 Gen1-Gen3
+5918569   PEG3 - Gen X
+5918600 Configure PEG3 B0:D6:F0 Gen1-Gen2
+5918669 LVDS1 + CRT1
+5918696 LVDS1
+5918709 CRT1
+5918720 Enable PEG
+5918743 To enable or disable the PEG.
+5918804 Active LFP
+5918827 Select the Active LFP Configuration.
+5918907 No LVDS:VBIOS does not enable LVDS.
+5918981 Int-LVDS:VBIOS enables LVDS driver by Integrated encoder.
+5919099 SDVO LVDS:VBIOS enables LVDS driver by SDVO encoder.
+5919207 eDP Port-A:LFP Driven by Int-DisplayPort encoder from Port-A.
+5919333 eDP Port-D:LFP Driven by Int-DisplayPort encoder from Port-D(through PCH).
+5919484 No LVDS
+5919501 Int-LVDS
+5919520 SDVO LVDS
+5919541 eDP Port-A
+5919564 eDP Port-D
+5919587 LCD Panel Type
+5919618 Select LCD panel used by Internal Graphics Device by selecting the appropriate setup item.
+5919801 640x480       LVDS
+5919840 800x600       LVDS
+5919879 1024x768      LVDS1
+5919920 1280x1024     LVDS
+5919959 1400x1050(RB) LVDS1
+5920000 1400x1050     LVDS2
+5920041 1600x1200     LVDS
+5920080 1366x768      LVDS
+5920119 1680x1050     LVDS
+5920158 1920x1200     LVDS
+5920197 1440x900      LVDS
+5920236 1600x900      LVDS
+5920275 1024x768      LVDS2
+5920316 1280x800      LVDS
+5920355 1920x1080     LVDS
+5920394 2048x1536     LVDS
+5920433 SDVO-LFP Panel Type
+5920474 Select SDVO panel used by Internal Graphics Device by selecting the appropriate setup item.
+5920659 1024x768     SDVO-LFP
+5920704 1280x1024    SDVO-LFP
+5920749 1400x1050    SDVO-LFP
+5920794 1600x1200    SDVO-LFP
+5920839 Panel Scaling
+5920868 Select the LCD panel scaling option used by the Internal Graphics Device.
+5921017 Auto
+5921028 Force Scaling
+5921066 Backlight Control
+5921103 Back Light Control Setting
+5921158 PWM Inverted
+5921185 PWM Normal
+5921208 GMBus Inverted
+5921239 GMBus Normal
+5921275 Auto
+5921286 Disabled
+5921305 Level 1
+5921322 Level 2
+5921339 Level 3
+5921356 Level 4
+5921373 Level 5
+5921390 >>Auto: GMCH Use VBT Default;             >>Level n: Enabled with Selected Aggressiveness Level.
+5921585 Spread Spectrum clock Chip
+5921649 Hardware
+5921668 Software
+5921687 >>Hardware: Spread is controlled by chip; >>Software: Spread is controlled by BIOS.
+5921856 TV1 Standard
+5921883 Select the ability to configure a TV Format
+5921972 TV2 Standard
+5921999 Select the ability to configure a TV Minor Format
+5922100 VBIOS default
+5922129 NTSC_M       
+5922158 NTSC_M_J     
+5922187 NTSC_433     
+5922216 PAL_B        
+5922245 PAL_G        
+5922274 PAL_D        
+5922303 PAL_H        
+5922332 PAL_I        
+5922361 PAL_M        
+5922390 PAL_N        
+5922419 SECAM_L      
+5922448 SECAM_B      
+5922477 SECAM_D      
+5922506 SECAM_G      
+5922535 SECAM_H      
+5922564 SECAM_K      
+5922593 HDTV_STD_SMPTE_240M_1080i59 
+5922652 HDTV_STD_SMPTE_240M_1080i60 
+5922711 HDTV_STD_SMPTE_295M_1080i50 
+5922770 HDTV_STD_SMPTE_295M_1080p50 
+5922829 HDTV_STD_SMPTE_296M_720p50  
+5922888 HDTV_STD_SMPTE_296M_720p60  
+5922947 HDTV_STD_CEAEIA_7702A_480p60
+5923006 HDTV_STD_CEAEIA_7702A_480i60
+5923065 ALS Support
+5923090 Valid only for ACPI.
+5923138 Legacy = ALS Support through the IGD INT10 function.
+5923250 ACPI = ALS support through an ACPI ALS driver.
+5923345 Gfx Low Power Mode
+5923384 This option is applicable for SFF only.
+5923465 Graphics Performance Analyzers
+5923528 Enable or disable Intel Graphics Performance Analyzers Counters.
+5923659 GT - Power Management Control
+5923720 GT - Power Management Control Options
+5923797 Internal Graphics Standby Mode
+5923860 Check to enable render standby support.
+5923941 Internal Graphics Deep Standby Mode
+5924014 Check to enable Deep RC6 (RC6+) support.
+5924097 GT OverClocking Support
+5924146 Enable or disable GT OverClocking Support
+5924231 GT OverClocking Frequency
+5924284 Overclocked RP0 Frequency (MLC Clk) in multiples of 50 MHz
+5924403 GT OverClocking Voltage
+5924452 Extra voltage needed above the original RP0 voltage - The unit is 1/256 volt
+5924607 GT Info
+5924624 Not Applicable
+5924655 Processor GT Info. Only valid if SNB stepping is D0 or above.
+5924780 GTT Size
+5924799 Select the GTT Size 
+5924860 Aperture Size
+5924889 Select the Aperture Size
+5924940 128MB
+5924953 256MB
+5924966 512MB
+5924979 Init Display First
+5925018 Select which of IGFX/PEG/PCI Graphics device should be Primary Display Or select SG for Switchable Gfx.
+5925227 IGFX
+5925263 Primary GOP Display
+5925304 Select which of IGFX Graphics output driver should be Primary Display.
+5925447  Primary PEG
+5925474 Select PEG0/PEG1/PEG2/PEG3 Graphics device should be Primary PEG.
+5925607 LCD Control
+5925632 Primary IGFX Boot Display
+5925685 Select the Video Device which will be activated during POST.
+5925809 This has no effect if external graphics present.
+5925909 Secondary boot display selection will appear based on your selection.
+5926051 VGA modes will be supported only on primary display
+5926160 VBIOS Default
+5926207 LFP2
+5926227 EFP2
+5926238 EFP3
+5926249 Secondary IGFX Boot Display
+5926306 Select Secondary Display Device
+5926371 Disabled
+5926390 Panel Color Depth
+5926427 Select the LFP Panel Color Depth
+5926494 18 Bit
+5926509 24 Bit
+5926524 Memory Configuration
+5926567 Memory Configuration Parameters
+5926632 Memory Information
+5926671 Memory Frequency
+5926715 Show Memory Frequency.
+5926762 Total Memory
+5926798 Total Memory in the System.
+5926855 Memory in the DIMM.
+5926896 DIMM#0
+5926911 DIMM#1
+5926926 DIMM#2
+5926941 DIMM#3
+5926956 Not Present
+5926981 Not Present
+5927006 Not Present
+5927031 Not Present
+5927056 tCL value
+5927077 CAS Latency (tCL)
+5927123 Minimum delay time
+5927162 tRCD value
+5927185     CAS to RAS (tRCDmin)
+5927236 CAS to RAS (tRCDmin)
+5927288 tRP value
+5927309     Row Precharge (tRPmin)
+5927364 Row Precharge (tRPmin)
+5927420 tRAS value
+5927443     Active to Precharge (tRASmin)
+5927512 Active to Precharge (tRASmin)
+5927582 tFAW value
+5927605 Four Activate Window (tFAWmin)
+5927677 DIMM profile
+5927704 Select DIMM timing profile that should be used.
+5927801 Default DIMM profile
+5927844 XMP Profile 1
+5927873 XMP Profile 2
+5927902 Custom Profile
+5927933 Not Supported
+5927962 Not Supported
+5927991 Custom Profile Control
+5928038 Custom Profile Control Options.
+5928103 Memory Timing Information
+5928156 Memory Timing Configuration
+5928213 DDR Selection
+5928242 DDR3 or DDR3L Selection.
+5928293 DDR3
+5928304 DDR3L
+5928317 DDR Reset Wait Time
+5928358 The value of ns to wait for switch DDR voltage, minimum 20ns.
+5928483 Memory Frequency Limiter
+5928534 Maximum Memory Frequency Selections in Mhz.
+5928623 1067
+5928634 1333
+5928645 1600
+5928656 1867
+5928667 2133
+5928678 2400
+5928689 2667
+5928700 Max TOLUD
+5928721 Maximum Value of TOLUD. Dynamic assignment would adjust TOLUD automatically based on largest MMIO length of installed graphic controller
+5928996 Dynamic
+5929013 3.25 GB
+5929030 3 GB
+5929041 2.75 GB
+5929058 2.5 GB
+5929073 2.25 GB
+5929090 2 GB
+5929101 1.75 GB
+5929118 1.5 GB
+5929133 1.25 GB
+5929150 1 GB
+5929161 NMode Support
+5929190 NMode Support Option.
+5929235 1N Mode
+5929252 2N Mode
+5929269 ECC Support
+5929294 Enable or disable DDR Ecc Support
+5929363 Memory Scrambler
+5929398 Enable or disable Memory Scrambler support.
+5929487 RMT Crosser Support
+5929528 Enable or disable RmtCrosserEnable support.
+5929617 MRC Fast Boot
+5929646 Enable or disable MRC fast boot.
+5929713 Force Cold Reset
+5929748 Force cold reset or choose MRC cold reset mode, when cold boot is required during MRC execution. Note: If ME 5.0MB is present, Force cold reset is required!
+5930063 Scrambler Seed Generation Off
+5930124 Control Memory Scrambler Seed Generation. Enable - do not generation scrambler seed. Disable - Generation scrambler seed always.
+5930383 Memory Remap
+5930410 Enable or disable memory remap above 4G.
+5930493 Memory Alias Check
+5930532 Enable or disable Memory Alias Check.
+5930609 Channel A DIMM Control
+5930656 Enable or disable dimms on channel A.
+5930733 Channel B DIMM Control
+5930780 Enable or disable dimms on Channel B.
+5930857 Enable Both DIMMS
+5930894 Disable DIMM0
+5930923 Disable DIMM1
+5930952 Disable Both DIMMS
+5930991 DIMM Exit Mode
+5931022 DIMM Exit Mode Control
+5931069 Slow Exit
+5931090 Fast Exit
+5931111   Power Down Mode
+5931148 Power Down Mode Control.
+5931199 No Power Down
+5931246 DLL-off
+5931263 APD-PPD
+5931280 APD-DLLoff
+5931303 Memory Thermal Configuration
+5931362 Memory Thermal Configuration Options
+5931437 Memory Thermal Configuration
+5931496 Memory Thermal Management
+5931549 Enable or disable Memory Thermal Management.
+5931640 PECI Injected Temperature
+5931693 Enable or disable memory temperatures to be injected to the processor via PECI.
+5931854 EXTTS# via TS-on-Board
+5931901 Enable or disable routing TS-on-Board
+5931977 s ALERT# and THERM# to EXTTS# pins on the PCH.
+5932072 EXTTS# via TS-on-DIMM
+5932117 Enable or disable routing TS-on-DIMM
+5932191 s ALERT# to EXTTS# pin on the PCH.
+5932262 Virtual Temperature Sensor (VTS)
+5932329 Enable or disable Virtual Temperature Sensor (VTS).
+5932434 NB PCIe Configuration 
+5932481 Config NB PCI Express Settings.
+5932546   PEG0 ASPM
+5932571 Control ASPM support for the PEG: Device 1 Function 0. This has no effect if PEG is not the currently active device.
+5932806   PEG1 ASPM
+5932831 Control ASPM support for the PEG: Device 1 Function 1. This has no effect if PEG is not the currently active device.
+5933066   PEG2 ASPM
+5933091 Control ASPM support for the PEG: Device 1 Function 2. This has no effect if PEG is not the currently active device.
+5933326   PEG3 ASPM
+5933351 Control ASPM support for the PEG: Device 6 Function 0. This has no effect if PEG is not the currently active device.
+5933586   ASPM L0s
+5933609 ASPM L1
+5933626 ASPM L0sL1
+5933649 ASPM L0s
+5933668 Enable PCIe ASPM L0s.
+5933713 Root Port Only
+5933744 Endpoint Port Only
+5933783 Both Root and Endpoint Ports
+5933842 De-emphasis Control
+5933883 Configure the De-emphasis control on PEG
+5933966 -6 dB
+5933979 -3.5 dB
+5933996 Gen3 Equalization
+5934033 Perform PEG Gen3 Equalization steps
+5934106  PEG Gen3 Root Port Preset Value for each Lane
+5934201 Root Port Preset Value Per lane for Gen3 Equalization.
+5934312  PEG Gen3 Endpoint Preset Value each Lane
+5934397 Endpoint Preset Value Per lane for Gen3 Equalization.
+5934506  PEG Gen3 Endpoint Hint Value each Lane
+5934587 Endpoint Hint Value Per lane for Gen3 Equalization.
+5934692 Lane 0
+5934707 Lane 1
+5934722 Lane 2
+5934737 Lane 3
+5934752 Lane 4
+5934767 Lane 5
+5934782 Lane 6
+5934797 Lane 7
+5934812 Lane 8
+5934827 Lane 9
+5934842 Lane 10
+5934859 Lane 11
+5934876 Lane 12
+5934893 Lane 13
+5934910 Lane 14
+5934927 Lane 15
+5934944 Value for Lane 0.
+5934981 Value for Lane 1.
+5935018 Value for Lane 2.
+5935055 Value for Lane 3.
+5935092 Value for Lane 4.
+5935129 Value for Lane 5.
+5935166 Value for Lane 6.
+5935203 Value for Lane 7.
+5935240 Value for Lane 8.
+5935277 Value for Lane 9.
+5935314 Value for Lane 10.
+5935353 Value for Lane 11.
+5935392 Value for Lane 12.
+5935431 Value for Lane 13.
+5935470 Value for Lane 14.
+5935509 Value for Lane 15.
+5935548  Gen3 Eq Phase 2
+5935583 Perform PEG Gen3 Equalization Phase 2
+5935660 PEG Sampler Calibrate
+5935705 Enable or disable PEG Sampler Calibrate
+5935787 Auto means Disabled for SNB MB/DT, Enabled for IVB A0 B0.
+5935904  Gen3 Eq Preset Search
+5935951 Perform PEG Gen3 Preset Search algorithm, on IVB C0 and Later.
+5936078   Always re-search Gen3 Eq Preset
+5936147 Always re-search Gen3 Eq Preset, even it has been done once.
+5936270   Preset Search Dwell Time
+5936325 PEG Gen3 Preset Search Dwell Time in [ms].
+5936412   Margin Steps
+5936443 Number of margin steps during Preset Search, [1..255].
+5936554   Start Margin
+5936585 The starting value for the backward margin search, [4..255].
+5936708 Fast PEG Init
+5936737 Enable or disable Fast PEG Init, Some optimization if no PEG devices present in cold boot.
+5936920 RxCEM Loop back
+5936953 Enable or disable RxCEM Loop back.
+5937024  RxCEM Loop back lane
+5937069 Selections RxCEM Loop back lane, [0..15].
+5937154 Swing Control
+5937183 Perform PEG Swing Control, on IVB C0 and Later.
+5937280 Reduced
+5937297 Half
+5937308 Full
+5937319 PEG0 Link and Speed Information
+5937384 PEG0
+5937395 Not Present
+5937420 PEG1 Link and Speed Information
+5937485 PEG1
+5937496 Not Present
+5937521 PEG2 Link and Speed Information
+5937586 PEG2
+5937597 Not Present
+5937622 PEG3 Link and Speed Information
+5937687 PEG3
+5937698 Not Present
+5937723 Gen1
+5937734 Gen2
+5937745 Gen3
+5937756 PEG11
+5937769 PEG12
+5937782 PEG60
+5937795 Option ROM Messages
+5937836 Set display mode for Option ROM
+5937901 Force BIOS
+5937924 Keep Current
+5937951 INT19 Trap Response
+5937992 Immediate
+5938013 Postponed
+5938034 BIOS reaction on INT19 trapping by Option ROM: IMMEDIATE - execute the trap right away; POSTPONED - execute the trap during legacy boot.
+5938309 GateA20 Active
+5938340 Upon Request
+5938367 Always
+5938382 UPON REQUEST - GA20 can be disabled using BIOS services. ALWAYS - do not allow disabling GA20; this option is useful when any RT code is executed above 1MB.
+5938697 ZIP Emulation Type
+5938736 Sets the Emulation type for ZIP drives
+5938815 Floppy
+5938830 Hard Drive
+5938853 CSM Support
+5938878 Enable/Disable CSM Support. If Auto is selected, based on OS, CSM will be enabled/disabled automatically.
+5939091 Intel(R) Rapid Start Technology
+5939156 Enable or disable Intel(R) Rapid Start Technology.
+5939259 Entry on S3 RTC Wake
+5939302 iFFS invocation upon S3 RTC wake.
+5939371   Entry After
+5939400 Enable RTC wake timer at S3 entry.
+5939471 Entry on S3 Critical Battery Wake
+5939540 iFFS invocation upon critical battery wake.
+5939629 Active Page Threshold Support
+5939690 Support RST with small prtiotion.
+5939759 Active Memory Threshold
+5939808 Try to support RST when partition size > Active Page Threshold size in MB. When setting to zero, it will be in AUTO mode and check if partition size is enough at S3 entry.
+5940153   Critical battery wake threshold
+5940222 Wake by critical battery event when battery capacity reached the threshold [0 - 100].
+5940395 Immediately
+5940420 1 minute
+5940439 2 minutes
+5940460 5 minutes
+5940481 10 minutes
+5940504 15 minutes
+5940527 30 minutes
+5940550 1 hour
+5940565 2 hours
+5940582 No valid iFFS partition found.
+5940645 Customer Code
+5940679 BIOS Version
+5940716 BCLK
+5940732 CPU Frequency
+5940766 Memory Frequency
+5940806 Total Memory Size
+5940848 CPU Temperature
+5940886 Vcore
+5940904 DRAM Voltage
+5940936 DRAM Channel C/D Voltage
+5940992 M.I.T. Current Status
+5941037 Show all information about M.I.T. status
+5941120 CPU Name
+5941139 CPU ID
+5941159 Turbo Ratio
+5941184 Turbo Frequency(MHz)
+5941227 Non-Turbo Ratio
+5941260 Non-Turbo Frequency(MHz)
+5941311 Core Temperature(
+5941363 Installed Size
+5941394 Enabled Size
+5941421 Total Size
+5941449 Memory Channel A
+5941484 Memory Channel B
+5941519 Memory Channel C
+5941554 Memory Channel D
+5941589 Advanced Frequency Settings
+5941646 Configure CPU BCLK, Memory Clock, PCIe frequency ,etc.
+5941757 CPU Clock Ratio
+5941790 Set CPU Ratio if CPU Ratio is unlocked
+5941869 CPU Frequency
+5941898 Advanced CPU Core Features
+5941953 Configure CPU Core Features
+5942010 Internal CPU PLL Overvoltage
+5942069 When enabled, CPU PLL runs with a higher voltage
+5942168 Real-Time CPU Ratio Control In OS
+5942237 CPU Ratio can be changed in OS without system reset if enabled
+5942364 Intel(R) Turbo Boost Technology
+5942429 Enable/Disable Turbo mode. Turbo mode opportunistically and automatically allows the processor to run faster than it's marked frequency if the processor is operating below power, temperature and current specifications.
+5942868   Turbo Ratio (1-Core Active)
+5942929 1-Core Ratio Limit
+5942968   Turbo Ratio (2-Core Active)
+5943029 2-Core Ratio Limit
+5943068   Turbo Ratio (3-Core Active)
+5943129 3-Core Ratio Limit
+5943168   Turbo Ratio (4-Core Active)
+5943229 4-Core Ratio Limit
+5943268   Turbo Ratio (5-Core Active)
+5943329 5-Core Ratio Limit
+5943368   Turbo Ratio (6-Core Active)
+5943429 6-Core Ratio Limit
+5943468   Turbo Ratio (7-Core Active)
+5943529 7-Core Ratio Limit
+5943568   Turbo Ratio (8-Core Active)
+5943629 8-Core Ratio Limit
+5943668 Turbo Power Limit(Watts)
+5943719 Thermal Design Power Limit
+5943774 Core Current Limit(Amps)
+5943825 Thermal Design Current Limit
+5943884 CPU Core Enabled
+5943919 Set actived CPU core number
+5943976 Hyper-Threading Technology
+5944031 Enable/Disable CPU Hyper-Threading Feature
+5944118 CPU Enhanced Halt(C1E)
+5944165 Enable/Disable whether CPU will enter C1 state to reduce core clock and VID
+5944318 C3/C6 State Support
+5944359 Processor will enter C3/C6 state to lower power consumption when CPU is in idle state if enabled
+5944554 CPU Thermal Monitor
+5944595 Enable/Disable whether CPU clock ratio and voltage will be reduced
+5944730 CPU EIST Function
+5944767 Enable/Disable EIST driver to manage clock and VID to serve the best thermal, performance and power requirements
+5944994 Bi-Directional PROCHOT
+5945041 Enable/Disable PROCHOT# as Input/Output signal, if disabled, PROCHOT# will be Output signal only
+5945236 CPU/PCIe Base Clock
+5945277     
+5945288 Host Clock Frequency
+5945331     
+5945342 Processor Base Clock(Gear Ratio)
+5945409     
+5945420 Host/PCIe Clock Value
+5945465     
+5945476 Processor Graphics Clock
+5945527 Adjust processor graphics clock to improve 3D gaming and image processing.
+5945678 Advanced Memory Settings
+5945729 Congiure memory clock, XMP prfoles, memory timings ,etc.
+5945844 Extreme Memory Profile(X.M.P.)
+5945907 Profile1
+5945926 Profile2
+5945945 System Memory Multiplier
+5945996 Warning: Improper memory clock may cause system fail to boot,and is not guaranteed to operate normally
+5946203 Memory Frequency(MHz)
+5946248 Performance Enhance
+5946289 Enhance System Performance
+5946344 Normal
+5946359 Turbo
+5946372 Extreme
+5946389 DRAM Timing Selectable
+5946436 Select DRAM Timing
+5946475 Auto
+5946486 Quick
+5946499 Expert
+5946514 Profile DDR Voltage
+5946555 Profile VTT Voltage
+5946596 Channel Interleaving
+5946639 Rank Interleaveing
+5946678 Channel A Timing Settings
+5946731 Set Channel A Timing
+5946774 Channel B Timing Settings
+5946827 Set Channel B Timing
+5946870 Channel C Timing Settings
+5946923 Set Channel C Timing
+5946966 Channel D Timing Settings
+5947019 Set Channel D Timing
+5947064  Channel A Standard Timing Control
+5947137  Channel A Advanced Timing Control
+5947210  Channel A Misc Timing Control
+5947273 CAS Latency
+5947298 tRCD
+5947318 tRAS
+5947338 tRRD
+5947349 tWTR
+5947369 tWTP
+5947389 tRFC
+5947400 tRTP
+5947411 tFAW
+5947422 Command Rate(tCMD)
+5947461 tRW Stability Level
+5947502 tWR Stability Level
+5947543 Round Trip Latency(DIMM0/Rank0)
+5947608 Round Trip Latency(DIMM0/Rank1)
+5947673 Round Trip Latency(DIMM1/Rank0)
+5947738 Round Trip Latency(DIMM1/Rank1)
+5947803 tREFI
+5947816 tREFIX9
+5947833 Timing Power Mode
+5947870 Timing Delay Mode
+5947907 tRRDR
+5947920 tRRDD
+5947933 tWWDR
+5947946 tWWDD
+5947959 tRWDRDD
+5947976 tWRDRDD
+5947993 tRWSR
+5948006 tRRSR
+5948019 tWWSR
+5948032 tDecWR
+5948047 RttNom(Dimm0/Rank0)
+5948088 RttNom(Dimm0/Rank1)
+5948129 RttNom(Dimm1/Rank0)
+5948170 RttNom(Dimm1/Rank1)
+5948211 RttWr(Dimm0/Rank0)
+5948250 RttWr(Dimm0/Rank1)
+5948289 RttWr(Dimm1/Rank0)
+5948328 RttWr(Dimm1/Rank1)
+5948367 IMC Internal Read Vref
+5948414 IMC Internal Write Vref
+5948465  Channel B Standard Timing Control
+5948538  Channel B Advanced Timing Control
+5948611  Channel B Misc Timing Control
+5948674 CAS Latency
+5948699 tRCD
+5948719 tRAS
+5948739 tRRD
+5948750 tWTR
+5948770 tWTP
+5948790 tRFC
+5948801 tRTP
+5948812 tFAW
+5948823 Command Rate(tCMD)
+5948862 tRW Stability Level
+5948903 tWR Stability Level
+5948944 Round Trip Latency(DIMM0/Rank0)
+5949009 Round Trip Latency(DIMM0/Rank1)
+5949074 Round Trip Latency(DIMM1/Rank0)
+5949139 Round Trip Latency(DIMM1/Rank1)
+5949204 tREFI
+5949217 tREFIX9
+5949234 Timing Power Mode
+5949271 Timing Delay Mode
+5949308 tRRDR
+5949321 tRRDD
+5949334 tWWDR
+5949347 tWWDD
+5949360 tRWDRDD
+5949377 tWRDRDD
+5949394 tRWSR
+5949407 tRRSR
+5949420 tWWSR
+5949433 tDecWR
+5949448 RttNom(Dimm0/Rank0)
+5949489 RttNom(Dimm0/Rank1)
+5949530 RttNom(Dimm1/Rank0)
+5949571 RttNom(Dimm1/Rank1)
+5949612 RttWr(Dimm0/Rank0)
+5949651 RttWr(Dimm0/Rank1)
+5949690 RttWr(Dimm1/Rank0)
+5949729 RttWr(Dimm1/Rank1)
+5949768 IMC Internal Read Vref
+5949815 IMC Internal Write Vref
+5949866  Channel C Standard Timing Control
+5949939  Channel C Advanced Timing Control
+5950012  Channel C Misc Timing Control
+5950075 CAS Latency
+5950100 tRCD
+5950120 tRAS
+5950140 tRRD
+5950151 tWTR
+5950171 tWTP
+5950191 tRFC
+5950202 tRTP
+5950213 tFAW
+5950224 Command Rate(tCMD)
+5950263 tRW Stability Level
+5950304 tWR Stability Level
+5950345 Round Trip Latency(DIMM0/Rank0)
+5950410 Round Trip Latency(DIMM0/Rank1)
+5950475 Round Trip Latency(DIMM1/Rank0)
+5950540 Round Trip Latency(DIMM1/Rank1)
+5950605 tREFI
+5950618 tREFIX9
+5950635 Timing Power Mode
+5950672 Timing Delay Mode
+5950709 tRRDR
+5950722 tRRDD
+5950735 tWWDR
+5950748 tWWDD
+5950761 tRWDRDD
+5950778 tWRDRDD
+5950795 tRWSR
+5950808 tRRSR
+5950821 tWWSR
+5950834 tDecWR
+5950849 RttNom(Dimm0/Rank0)
+5950890 RttNom(Dimm0/Rank1)
+5950931 RttNom(Dimm1/Rank0)
+5950972 RttNom(Dimm1/Rank1)
+5951013 RttWr(Dimm0/Rank0)
+5951052 RttWr(Dimm0/Rank1)
+5951091 RttWr(Dimm1/Rank0)
+5951130 RttWr(Dimm1/Rank1)
+5951169 IMC Internal Read Vref
+5951216 IMC Internal Write Vref
+5951267  Channel D Standard Timing Control
+5951340  Channel D Advanced Timing Control
+5951413  Channel D Misc Timing Control
+5951476 CAS Latency
+5951501 tRCD
+5951521 tRAS
+5951541 tRRD
+5951552 tWTR
+5951572 tWTP
+5951592 tRFC
+5951603 tRTP
+5951614 tFAW
+5951625 Command Rate(tCMD)
+5951664 tRW Stability Level
+5951705 tWR Stability Level
+5951746 Round Trip Latency(DIMM0/Rank0)
+5951811 Round Trip Latency(DIMM0/Rank1)
+5951876 Round Trip Latency(DIMM1/Rank0)
+5951941 Round Trip Latency(DIMM1/Rank1)
+5952006 tREFI
+5952019 tREFIX9
+5952036 Timing Power Mode
+5952073 Timing Delay Mode
+5952110 tRRDR
+5952123 tRRDD
+5952136 tWWDR
+5952149 tWWDD
+5952162 tRWDRDD
+5952179 tWRDRDD
+5952196 tRWSR
+5952209 tRRSR
+5952222 tWWSR
+5952235 tDecWR
+5952250 RttNom(Dimm0/Rank0)
+5952291 RttNom(Dimm0/Rank1)
+5952332 RttNom(Dimm1/Rank0)
+5952373 RttNom(Dimm1/Rank1)
+5952414 RttWr(Dimm0/Rank0)
+5952453 RttWr(Dimm0/Rank1)
+5952492 RttWr(Dimm1/Rank0)
+5952531 RttWr(Dimm1/Rank1)
+5952570 IMC Internal Read Vref
+5952617 IMC Internal Write Vref
+5952666 Advanced Voltage Settings
+5952719 Congiure miscellaneous voltage settings
+5952800 CPU Vcore
+5952821 Dynamic GFX Core(VAXG DVID)
+5952878 PC Health Status
+5952913 Display CPU/System Temperature, Fan speed
+5952998 CPU Vcore
+5953024 Dram Voltage
+5953056 Dram Channel C/D Voltage
+5953112 +3.3V
+5953144 +12V
+5953160 CPU VTT
+5953182 CPU Temperature
+5953220 System Temperature
+5953264 PCH Temperature
+5953302 2nd System Temperature
+5953354 3rd System Temperature
+5953406 CPU Fan Speed
+5953440 System Fan Speed
+5953480 2nd System Fan Speed
+5953528 3rd System Fan Speed
+5953576 4th System Fan Speed
+5953624 5th System Fan Speed
+5953672 6th System Fan Speed
+5953720 Power Fan Speed
+5953758 1st Tempature Warning
+5953803 2nd Tempature Warning
+5953848 CPU Warning Temperature
+5953897 Set How Much Degree of Temperature to Alert.
+5953994 C/140
+5954017 C/158
+5954040 C/176
+5954063 C/194
+5954080 CPU Fan Fail Warning
+5954123 System Fan Fail Warning
+5954172 2nd System Fan Fail Warning
+5954229 3rd System Fan Fail Warning
+5954286 4th System Fan Fail Warning
+5954343 Enable Fan Warning or Not
+5954396 CPU Fan Control mode
+5954439 Set FAN control mode
+5954482 Voltage
+5954508 CPU Fan Speed Control
+5954553 Set FAN control mode
+5954596 System Fan Speed Control
+5954647 Set FAN control mode
+5954690 2nd System Fan Speed Control
+5954749 Set FAN control mode
+5954792 Normal
+5954807 Silent
+5954822 Manual
+5954837 Slope PWM
+5954858 Set Slope
+5954879 0.75 PWM value /
+5954918 1.00 PWM value /
+5954957 1.25 PWM value /
+5954996 1.50 PWM value /
+5955035 1.75 PWM value /
+5955074 2.00 PWM value /
+5955113 2.25 PWM value /
+5955152 2.50 PWM value /
+5955191 Reset Case Open Status
+5955238 Enable to Clear Case Open Status.
+5955307 Case Open
+5955337 Miscellaneous Settings
+5955384 Congiure miscellaneous features, e.g. Vt-d
+5955471 Isochronous Support
+5955512 Isochronous transfer support for VC0/VC1
+5955595 USB Support
+5955620 USB Support Parameters
+5955667 USB3.0 Support
+5955698 Enable/Disable USB3.0 (XHCI) Controller support.
+5955797 Enabled
+5955814 Disabled
+5955833 Auto
+5955844 Legacy USB Support
+5955883 Enables Legacy USB support. AUTO option disables legacy support if no USB devices are connected. DISABLE option will keep USB devices available only for EFI applications.
+5956226 XHCI Hand-off
+5956255 This is a workaround for OSes without XHCI hand-off support. The XHCI ownership change should be claimed by XHCI driver.
+5956498 EHCI Hand-off
+5956527 This is a workaround for OSes without EHCI hand-off support. The EHCI ownership change should be claimed by EHCI driver.
+5956770 Hotplug USB FDD
+5956803 A dummy FDD device is created that will be associated with the hot-plugged FDD later. AUTO option creates this dummy device only if there is no USB FDD present.
+5957126 Hotplug USB HDD
+5957159 A dummy HDD device is created that will be associated with the hot-plugged HDD later. AUTO option creates this dummy device only if there is no USB HDD present.
+5957482 Hotplug USB CD-ROM
+5957521 A dummy CDROM device is created that will be associated with the hot-plugged CDROM later. AUTO option creates this dummy device only if there is no USB CDROM present.
+5957856 Device reset time-out
+5957901 USB mass storage device Start Unit command time-out.
+5958008 USB transfer time-out
+5958053 The time-out value for Control, Bulk, and Interrupt transfers.
+5958180 Device power-up delay
+5958225 Maximum time the device will take before it properly reports itself to the Host Controller. 'Auto' uses default value: for a Root port it is 100 ms, for a Hub port the delay is taken from Hub descriptor.
+5958634 Manual
+5958649 Device power-up delay in seconds
+5958716 Delay range is 1..40 seconds, in one second increments
+5958827 1 sec
+5958840 5 sec
+5958853 10 sec
+5958868 20 sec
+5958883 30 sec
+5958898 40 sec
+5959057 USB Storage Devices:
+5959100 Floppy
+5959115 Forced FDD
+5959138 Hard Disk
+5959159 CD-ROM
+5959174 Mass storage device emulation type. 'AUTO' enumerates devices less than 530MB as floppies. Forced FDD option can be used to force HDD formatted drive to boot as FDD (e.g. ZIP drive).
+5959541 Mass storage device emulation type. 'AUTO' enumerates devices according to their media format. Optical drives are emulated as 'CDROM', drives with no media will be emulated according to a drive type.
+5959942 Port 60/64 Emulation
+5959985 Enables I/O port 60h/64h emulation support. This should be enabled for the complete USB keyboard legacy support for non-USB aware OSes.
+5960258 Super IO Configuration
+5960305 System Super IO Chip Parameters.
+5960372 Super IO Chip
+5960401 IT8728
+5960416 Floppy Disk Controller
+5960463 Enable or Disable Floppy Disk Controller
+5960546 Change mode of Floppy Disk Controller. Select 'Read Write' for normal operation. Select 'Write Protect' mode for read only operation.
+5960815 Read Write
+5960838 Write Protect
+5960867 Reset Required
+5960898 IO=3F0h; IRQ=6; DMA=2;
+5960945 Serial Port A
+5960974 Serial Port B
+5961003 Enable or Disable Serial Port (COM)
+5961076 Reset Required
+5961107 Reset Required
+5961138 IO=3F8h; IRQ=4;
+5961171 IO=2F8h; IRQ=3;
+5961204 IO=3F8h; IRQ=3,4,5,6,7,9,10,11,12;
+5961275 IO=2F8h; IRQ=3,4,5,6,7,9,10,11,12;
+5961346 IO=3E8h; IRQ=3,4,5,6,7,9,10,11,12;
+5961417 IO=2E8h; IRQ=3,4,5,6,7,9,10,11,12;
+5961488 Parallel Port
+5961517 Enable or Disable Parallel Port (LPT/LPTE)
+5961604 Standard Parallel Port Mode
+5961661 EPP Mode
+5961680 ECP Mode
+5961699 EPP Mode & ECP Mode
+5961740 Reset Required
+5961771 Change the Printer Port mode.
+5961832 IO=378h; IRQ=5;
+5961865 IO=378h; IRQ=5,6,7,9,10,11,12;
+5961928 IO=278h; IRQ=5,6,7,9,10,11,12;
+5961991 IO=3BCh; IRQ=5,6,7,9,10,11,12;
+5962054 IO=378h; IRQ=5; DMA=3;
+5962101 IO=378h; IRQ=5,6,7,9,10,11,12; DMA=1,3;
+5962182 IO=278h; IRQ=5,6,7,9,10,11,12; DMA=1,3;
+5962263 IO=3BCh; IRQ=5,6,7,9,10,11,12; DMA=1,3;
+5962344 CIR Controller
+5962375 Enable or Disable CIR Controller
+5962442 IO=3E0h; IRQ=10;
+5962477 IO=3E0h; IRQ=3,4,5,6,7,9,10,11,12;
+5962548 IO=2E0h; IRQ=3,4,5,6,7,9,10,11,12;
+5962619 IO=298h; IRQ=3,4,5,6,7,9,10,11,12;
+5962690 Reset Required
+5962721 Select an optimal setting for Super IO device.
+5962816 Change Settings
+5962849 Device Settings
+5962882 Device Mode
+5962907 H/W Monitor
+5962932 Monitor hardware status
+5962981 PC Health Status
+5963016 System temperature1
+5963066 System temperature2
+5963116 System temperature3
+5963166 Fan1 Speed
+5963198 Fan2 Speed
+5963230 Fan3 Speed
+5963262 Fan4 Speed
+5963294 Fan5 Speed
+5963326 VIN0
+5963346 VIN1
+5963366 VIN2
+5963386 VIN3
+5963406 VIN4
+5963426 VIN5
+5963446 VIN6
+5963466 VBAT
+5963486 Platform Misc Configuration
+5963543 Platform Misc Configuration
+5963600 Native PCIE Enable
+5963639 PCI Express Native Support Enable/Disable. This feature is only available in Vista.
+5963808 Native ASPM
+5963833 On enable, Vista will control the ASPM support for the device. If disabled, the BIOS will.
+5964016 PTID Support
+5964043 PTID SSDT table will be loaded if enabled.
+5964130 PECI Access Method
+5964169 PECI Access Method is Direct I/O or ACPI
+5964252 Direct I/O
+5964275 ACPI
+5964286 Intel(R) Smart Connect Technology
+5964355 Intel(R) Smart Connect Technology Settings
+5964442 ISCT Configuration
+5964481 Enable/Disable ISCT Configuration
+5964550 ISCT Notification Control
+5964603 Enable/Disable ISCT Notification Control
+5964686 ISCT WLAN Power Control
+5964735 Enable/Disable ISCT WLAN Power Control
+5964814 ISCT WWAN Power Control
+5964863 Enable/Disable ISCT WWAN Power Control
+5964942 ISCT EC Timer Control
+5964987 Enable/Disable ISCT EC Timer Control. (ISCT 2.0)
+5965086 ISCT Sleep Duration Value Format
+5965153 Select Actual Time Or Duration In Seconds. (ISCT 2.0)
+5965262 Actual Time
+5965287 Duration In Seconds
+5965328 Setup Profile
+5965357 Setup Profile 1
+5965390 Setup Profile 2
+5965423 Setup Profile 3
+5965456 Setup Profile 4
+5965489 Save Profiles
+5965518 Save current BIOS settings to a specific profile
+5965617 Load Profiles
+5965646 Load a specific profile to current BIOS settings
+5965750 Demo Board
+5965773 Demo Board Parameters
+5965818 CRB Test
+5965837 Help for CRB Test
+5965874 Network stack
+5965903 Enable/Disable UEFI network stack
+5965972 Enable
+5965987 Disable Link
+5966014 Ipv4 PXE Support
+5966049 Enable Ipv4 PXE Boot Support
+5966108 Ipv6 PXE Support
+5966143 Enable Ipv6 PXE Boot Support
+5966202 PCI Subsystem Settings
+5966249 PCI Hot-Plug Settings
+5966294 PCI Express Settings
+5966337 PCI Express GEN 2 Settings
+5966392 PCI Bus Driver Version
+5966439 00.00
+5966452 PCI, PCI-X and PCI Express Settings.
+5966527 Change PCI Express Hot-Plug and Standard HP Controller Settings.
+5966658 Change PCI Express Devices Settings.
+5966733 Change PCI Express GEN Devices Settings.
+5966816 PCI Latency Timer
+5966853 PCI-X Latency Timer
+5966894 Value to be programmed into PCI Latency Timer Register.
+5967007 PCI Common Settings
+5967048 PCI-X Device Settings
+5967093 PCI Express Device Register Settings
+5967168 PCI Express GEN2 Device Register Settings
+5967253 PCI Express Link Register Settings
+5967324 PCI Express GEN2 Link Register Settings
+5967405 PCI Option ROM Handling
+5967454 PCI 64bit Resources Handling
+5967513 Init Display First
+5967552 Select which video display output will be enabled during POST
+5967677 PCIe Slot 1
+5967702 PCIe Slot 2
+5967727 PCIe Slot 3
+5967752 PCIe Slot 4
+5967786 PCIe Slot 1
+5967811 PCIe Slot 2
+5967836 PCIe Slot 3
+5967861 PCIe Slot 4
+5967886 PCIe Slot 1
+5967911 PCIe Slot 2
+5967936 PCIe Slot 3
+5967970 VGA Palette Snoop
+5968007 Enables or Disables VGA Palette Registers Snooping.
+5968112 PERR# Generation
+5968147 Enables or Disables PCI Device to Generate PERR#.
+5968248 SERR# Generation
+5968283 Enables or Disables PCI Device to Generate SERR#.
+5968384 Above 4G Decoding
+5968421 Enables or Disables 64bit capable Devices to be Decoded in Above 4G Address Space (Only if System Supports 64 bit PCI Decoding).
+5968680 32 PCI Bus Clocks
+5968717 64 PCI Bus Clocks
+5968754 96 PCI Bus Clocks
+5968791 128 PCI Bus Clocks
+5968830 160 PCI Bus Clocks
+5968869 192 PCI Bus Clocks
+5968908 224 PCI Bus Clocks
+5968947 248 PCI Bus Clocks
+5968986 PCI ROM Priority
+5969021 In case of multiple Option ROMs (Legacy and EFI Compatible), specifies what PCI Option ROM to launch.
+5969226 Legacy ROM
+5969249 EFI Compatible ROM
+5969288 Relaxed Ordering
+5969323 Enables or Disables PCI Express Device Relaxed Ordering.
+5969438 No Snoop
+5969457 Enables or Disables PCI Express Device No Snoop option.
+5969570 Maximum Payload
+5969603 Set Maximum Payload of PCI Express Device or allow System BIOS to select the value.
+5969772 Maximum Read Request
+5969815 Set Maximum Read Request Size of PCI Express Device or allow System BIOS to select the value.
+5970004 128 Bytes
+5970025 256 Bytes
+5970046 512 Bytes
+5970067 1024 Bytes
+5970090 2048 Bytes
+5970113 4096 Bytes
+5970136 WARNING: Enabling ASPM may cause some
+5970213          PCI-E devices to fail
+5970276 Force L0s
+5970297 Extended Synch
+5970328 If ENABLED allows generation of Extended Synchronization patterns.
+5970463 Extended Tag
+5970490 If ENABLED allows Device to use 8-bit Tag field as a requester.
+5970619 BIOS Hot-Plug Support
+5970664 If ENABLED allows BIOS build in Hot-Pug support. Use this feature if OS does not support PCI Express and SHPC hot-plug natively.
+5970923 PCI Buses Padding
+5970960 Padd PCI Buses behind the bridge for Hot-Plug.
+5971080 I/O Resources Padding
+5971125 Padd PCI I/O Resources behind the bridge for Hot-Plug.
+5971254 16 K
+5971265 32 K
+5971276 MMIO 32 bit Resources Padding
+5971337 Padd PCI MMIO 32-bit Resources behind the bridge for Hot-Plug.
+5971464 PFMMIO 32 bit Resources Padding
+5971529 Padd PCI MMIO 32-bit Prefetchable Resources behind the bridge for Hot-Plug.
+5971682 MMIO 32 bit Resources Padding
+5971743 Padd PCI MMIO 64-bit Resources behind the bridge for Hot-Plug.
+5971870 PFMMIO 32 bit Resources Padding
+5971935 Padd PCI MMIO 64-bit Prefetchable Resources behind the bridge for Hot-Plug.
+5972124 16 M
+5972135 32 M
+5972146 64 M
+5972157 128 M
+5972170 256 M
+5972183 512 M
+5972205 Link Training Retry
+5972246 Defines number of Retry Attempts software will take to retrain the link if previous training attempt was unsuccessful.
+5972485 Link Training Timeout (uS)
+5972540 Defines number of Microseconds software will wait before polling 'Link Training' bit in Link Status register. Value range from 10 to 1000 uS.
+5972825 Completion Timeout
+5972864 In device Functions that support Completion Timeout programmability, allows system software to modify the Completion Timeout value. 'Default' 50us to 50ms. If 'Shorter' is selected, software will use shorter timeout ranges supported by hardware. If 'Longer' is selected, software will use longer timeout ranges.
+5973489 Default
+5973506 ARI Forwarding
+5973537 If supported by hardware and set to 'Enabled', the Downstream Port disables its traditional Device Number field being 0 enforcement when turning a Type1 Configuration Request into a Type0 Configuration Request, permitting access to Extended Functions in an ARI Device immediately below the Port. Default value: Disabled
+5974178 AtomicOp Requester Enable
+5974231 If supported by hardware and set to 'Enabled', this function initiates AtomicOp Requests only if Bus Master Enable bit is in the Command Register Set.
+5974534 AtomicOp Egress Blocking
+5974585 If supported by hardware and set to 'Enabled', outbound AtomicOp Requests via Egress Ports will be blocked.
+5974802 IDO Request Enable
+5974841 If supported by hardware and set to 'Enabled', this permits setting the number of ID-Based Ordering (IDO) bit (Attribute[2]) requests to be initiated.
+5975144 IDO Completion Enable
+5975189 If supported by hardware and set to 'Enabled', this permits setting the number of ID-Based Ordering (IDO) bit (Attribute[2]) requests to be initiated.
+5975492 LTR Mechanism Enable
+5975535 If supported by hardware and set to 'Enabled', this enables the Latency Tolerance Reporting (LTR) Mechanism.
+5975754 End-End TLP Prefix Blocking
+5975811 If supported by hardware and set to 'Enabled', this function will block forwarding of TLPs containing End-End TLP Prefixes.
+5976060 Target Link Speed
+5976097 If supported by hardware and set to 'Force to 2.5 GT/s' for Downstream Ports, this sets an upper limit on Link operational speed by restricting the values advertised by the Upstream component in its training sequences. When 'Auto' is selected HW initialized data will be used.
+5976652 Force to 2.5 GT/s
+5976689 Force to 5.0 GT/s
+5976726 Compliance SOS
+5976757 If supported by hardware and set to 'Enabled', this will force LTSSM to send SKP Ordered Sets between sequences when sending Compliance Pattern or Modified Compliance Pattern.
+5977110 Hardware Autonomous Width
+5977163 If supported by hardware and set to 'Disabled', this will disable the hardware's ability to change link width except width size reduction for the purpose of correcting unstable link operation.
+5977550 Hardware Autonomous Speed
+5977603 If supported by hardware and set to 'Disabled', this will disable the hardware's ability to change link speed except speed rate reduction for the purpose of correcting unstable link operation.
+5977990 Clock Power Management
+5978037 If supported by hardware and set to 'Enabled', the device is permitted to use CLKREQ# signal for power management of Link clock in accordance to protocol defined in appropriate form factor specification.
+5978446 Shorter
+5978463 Longer
+5978478 Unpopulated Links
+5978515 In order to save power, software will disable unpopulated PCI Express links, if this option set to 'Disable Link'.
+5978746 Keep Link ON
+5978826 pt-BR  
+5978846 Aktiviert
+5978867 Deaktiviert
+5978892 Auto
+5978906 M/B Intelligence Tweaker
+5978957 System
+5978972 System 
+5978988 bersicht
+5979007 System Information
+5979046 BIOS Hersteller
+5979082 Core Version
+5979112 Kompatibilit
+5979146 BIOS Version
+5979176 BIOS Datum
+5979202 Modellname
+5979228 Systemsprache
+5979261 hlen Sie die standard Systemsprache
+5979334 System Datum
+5979361 Datum einstellen. Dr
+5979403 cken Sie Tab um das Datum zu 
+5979463 ndern.
+5979478 Systemzeit
+5979501 Zeit einstellen. Dr
+5979541 cken sie Tab um die Zeit zu 
+5979599 ndern.
+5979614 Zugriffs-Level
+5979645 User
+5979656 Administrator
+5979685 ATA Port Information
+5979728 ATA Port Information und Status
+5979793 Peripherie
+5979816 Erweiterte Einstellungen f
+5979870 r integrierte Peripherieger
+5979933 Energie-Verwaltung
+5979972 Erweiterte Einstellungen zur Energie-Verwaltung
+5980072 BIOS Funktionen
+5980105 Erweiterte BIOS Funktionen einstellen
+5980182 Vollbild Logo-Show
+5980221 Aktiviert oder deaktiviert Vollbild Logo-Show Option
+5980328 Enrichten der Prompt Zeit
+5980380 berschreitung
+5980409 Anzahl der Sekunden, um auf den Aktivierung-Schl
+5980507 ssel zu warten. 65535(0xFFFF) bedeutet unendliche Wartezeit.
+5980630 Bootup NumLock Status
+5980675 Auswahl des Tastatur NumLock Status
+5980748 Boot Option Priorit
+5980797 Boot Option #%d
+5980833 Festlegen der Reihenfolge von Legacy Ger
+5980915 ten in dieser Gruppe
+5980961 Administrator Passwort
+5981008 User Passwort
+5981040 Speichern & Beenden
+5981081 Speichern & Optionen verlassen
+5981144 Beenden ohne speichern
+5981191 Systemeinstellungen verlassen, ohne die 
+5981273 nderungen zu speichern.
+5981322 Einstellungen speichern & beenden
+5981391 Das System nach speichern der 
+5981453 nderungen zur
+5981481 cksetzen.
+5981502 Standardeinstellungen laden
+5981559 Wiederherstellen/Standardwerte f
+5981625 r alle Einstellungsoptionnen laden.
+5981701 AC BACK
+5981718 Festlegen des Systemverhaltens nach Wiederherstellung der Stromversorgung
+5981867 Speicher
+5981886 Immer AN
+5981905 Immer AUS
+5981926 Starten des Computers via Keyboard
+5981997 Aktivieren oder Deaktivieren der Funktion Starten des Computers via Keyboard.
+5982154 Deaktiviert
+5982182 ACPI Schlafzustand
+5982221 Auswahl des h
+5982249 chsten Schlafmodus f
+5982291 r das System, wenn SUSPEND gedr
+5982355 ckt wird.
+5982376 S1 (CPU Stop Clock)
+5982417 S3 (Suspend to RAM)
+5982458 Suspend deaktiviert
+5982502 Aktiviert
+5982523 Deaktiviert
+5982551 Trusted Computing (TPM) Einstellungen
+5982628   TPM Status
+5982655   TCM Status
+5982682   TPM Unterst
+5982710 tzung
+5982723   TCM Unterst
+5982751 tzung
+5982764   TPM Unterst
+5982792 tzung
+5982805 TPM aktivieren/deaktivieren. ACHTUNG: Der Computer wird neustarten, um den TPM Status zu 
+5982985 ndern.
+5983000 TPM l
+5983012 schen
+5983025 TCM l
+5983037 schen
+5983050 Kein
+5983061 Aktivieren von Rechte 
+5983107 bernehmen
+5983128 Deaktivieren von Rechte 
+5983178 bernehmen
+5983199 Aktivieren
+5983222 Deaktivieren
+5983249 Aktiviert
+5983270 Deaktiviert
+5983295 Laufender TPM Prozess
+5983340 TPM Konfiguration
+5983380 Aktuelle TPM Status Informationen
+5983449   TPM aktivierter Status:
+5983502   TCM aktivierter Status:
+5983555   TPM Aktiv-Status:
+5983596   TCM Aktiv-Status:
+5983637 Zeigt den aktuellen F
+5983681 higkeits-Status des TPM
+5983730 Deaktiviert
+5983755 Aktiviert
+5983776 Deaktiviert
+5983801 Aktiviert
+5983822   TPM Eigent
+5983848 mer-Status:
+5983873   TCM Eigent
+5983899 mer-Status:
+5983924 Zeigt den aktuellen TPM Eigent
+5983986 mer-Status. Z.B.: berechtigt oder unberechtigt
+5984081 Berechtigt
+5984104 Unberechtigt
+5984134   Keine TPM Hardware
+5984177   TPM Unterst
+5984205 tzung AUS
+5984229 Festlegen, welcher TPM Statuswechsel eine Passwort-Authentifizierung erfordert
+5984388 Fortsetzen bei Alarm
+5984431 Aktivieren oder Deaktivieren von Systemaktivierung bei Alarm. Wenn aktiviert, wird das System aktiviert bei Eingabe von da:hr:min:sec
+5984700     Aktivierungs-Tag
+5984743 Auswahl 0-31 zum Beispiel, Eingabe 3 f
+5984821 r Tag 3, 0 bedeutet jeden Tag
+5984882     Aktivierungs-Stunde
+5984934     Aktivierungs-Minute
+5984986     Aktivierungs-Sekunde
+5985040 Nicht vorhanden
+5985073 Nicht vorhanden
+5985106 Nicht vorhanden
+5985139 Nicht vorhanden
+5985175 Nicht vorhanden
+5985208 Nicht vorhanden
+5985241 Nicht vorhanden
+5985274 Nicht vorhanden
+5985310 Nicht vorhanden
+5985343 Nicht vorhanden
+5985376 Nicht vorhanden
+5985409 Nicht vorhanden
+5985445 Nicht vorhanden
+5985478 Nicht vorhanden
+5985511 Nicht vorhanden
+5985544 Nicht vorhanden
+5985580 Ausf
+5985590 hren Bit deaktivieren
+5985635 XD-Bit kann gewisse Klassen von sch
+5985707 dlichem Buffer Overflow verhindern, wenn es mit einem unterst
+5985831 tzendem OS zusammenarbeitet (Windows Server 2003 SP1, Windows XP SP2, SuSE Linux 9.2, RedHat Enterprise 3 Update 3.)
+5986069 CPUID Begrenzen des Maximalwertes
+5986138 Deaktiviert f
+5986166 r Windows XP
+5986196 Intel Virtualisierungs Technologie
+5986267 Wenn aktiviert, kann VMM die zus
+5986333 tzlichen Hardware-F
+5986373 higkeiten von Vanderpool Technology nutzen.
+5986465 LAN PXE Boot Option ROM
+5986514 Aktivieren oder deaktivieren der Boot-Option f
+5986608 r die Legacy Netzwerk Ger
+5986672 SATA Konfiguration
+5986714 SATA Controller(s)
+5986753 Aktivierung oder Deaktivierung der SATA Ger
+5986850 SATA Modusauswahl
+5986887 Betriebszustand der SATA-Controller festlegen.
+5986991 AHCI
+5987002 RAID
+5987016 Audio Controller
+5987051 Steuerung onboard Audio-Ger
+5987119 Deaktiviert = Audio wird komplett deaktiviert.
+5987219 Aktiviert = Audio wird Aktiviert.
+5987291 xHCI Modus
+5987314 xHCI Controller Betriebsarten.
+5987377   HS Port #1 Switchable
+5987426   HS Port #2 Switchable
+5987475   HS Port #3 Switchable
+5987524   HS Port #4 Switchable
+5987576   xHCI Streams
+5987607 Aktivieren oder deaktivieren Sie die xHCI maximum prim
+5987717 re Stream Array-Gr
+5987764 XHCI Pre-Boot Treiber
+5987809 Aktivieren oder deaktivieren Sie XHCI Pre-Boot-Treiber-Unterst
+5987935 tzung.
+5987950 USB2.0 Controller
+5987987 USB2.0 Controller 2
+5988028 Kontrollieren Sie bitte die USB EHCI (USB 2.0) Funktionen. Mindestens ein EHCI-Controller muss immer aktiviert sein.
+5988266 Konfigurieren Sie die ErP-Modus-Konfiguration.
+5988364 High Precision Event Timer
+5988419 Aktivieren oder Deaktivieren der High Precision Event Timer.
+5988545 Soft-AUS durch PWR-BTTN
+5988594 [Sofort-Aus]: Den Netzschalter dr
+5988662 cken, um das System sofort auszuschalten, [Verz
+5988758 gerung 4 Sek.]: Den Netzschalter f
+5988828 r 4 Sek. gedr
+5988856 ckt halten, um das System auszuschalten. Wenn der Schalter f
+5988978 r weniger als 4 Sek. gedr
+5989030 ckt wird, in den Suspend Modus versetzen
+5989113 Soft-Aus
+5989132 Verz
+5989142 gerung f
+5989160 r 4 Sek.
+5989182 Interne Grafik
+5989213 Lassen Sie die IGD Funktion, basierend auf der Setup-Optionen, aktiviert.
+5989365 Nicht vorhanden
+5989401 Nicht vorhanden
+5989437 Nicht vorhanden
+5989473 Nicht vorhanden
+5989509 Nicht vorhanden
+5989545 Interne Grafikspeichergr
+5989605 DVMT insgesamte Speichergr
+5989670 hlen Sie die DVMT5.0 Grafikspeichergr
+5989748 e, die durch die interne Grafik verwendet werden soll.
+5989862 Interne Grafik Standby-Modus
+5989923 berpr
+5989935 fung und Aktivierung der Render standby Unterst
+5990031 zung.
+5990044 Interne Grafik Deep Standby Mode
+5990113 berpr
+5990125 fung und Aktivierung der Deep RC6 (RC6+) Unterst
+5990223 zung.
+5990239 Initialisierung des Monitors
+5990302 hlen Sie, welche der IGFX / PEG / PCI Grafik Ger
+5990400 te als Prim
+5990424 res Display angesprochen werden oder w
+5990502 hlen SG f
+5990522 r Schaltbare Gfx.
+5990562 Nicht vorhanden
+5990595 Nicht vorhanden
+5990628 Nicht vorhanden
+5990661 Nicht vorhanden
+5990697 Nicht vorhanden
+5990733 Nicht vorhanden
+5990769 Nicht vorhanden
+5990805 Nicht vorhanden
+5990841 Intel(R) Rapid Start Technologie
+5990911 BIOS Version
+5990941 CPU Frequenz
+5990971 Speicher Frequenz
+5991011 Totale Speichergr
+5991057 CPU Temperatur
+5991091 Vcore
+5991107 DRAM Spannung
+5991139 DRAM Channel C/D Spannung
+5991195 M.I.T. aktueller Status
+5991244 Zeige alle Informationen 
+5991296 ber M.I.T. Status
+5991333 CPU Name
+5991355 Turbo Ratio
+5991380 Turbo Frequenz(MHz)
+5991421 Non-Turbo Ratio
+5991454 Non-Turbo Frequenz(MHz)
+5991503 Kern Temperatur(
+5991547 Installierte Gr
+5991586 Aktivierte Gr
+5991621 Totale Gr
+5991651 Speicher Channel A
+5991690 Speicher Channel B
+5991729 Speicher Channel C
+5991768 Speicher Channel D
+5991807 Erweiterte Frequenz Einstellungen
+5991876 Konfigurieren von CPU BCLK, Speichertakt und PCIe Frequenz usw.
+5992005 CPU Takt Ratio
+5992039 CPU Frequenz
+5992066 Erweiterte CPU Kern Merkmale
+5992128 Interne CPU PLL 
+5992162 berspannung
+5992190 Echtzeit CPU Ratio Kontrolle im OS
+5992264 Intel(R) Turbo Boost Technologie
+5992334   Turbo Ratio (1-Kern Aktiv)
+5992396   Turbo Ratio (2-Kerne aktiv)
+5992460   Turbo Ratio (3-Kerne aktiv)
+5992524   Turbo Ratio (4-Kerne aktiv)
+5992588   Turbo Ratio (5-Kerne aktiv)
+5992652   Turbo Ratio (6-Kerne aktiv)
+5992716   Turbo Ratio (7-Kerne aktiv)
+5992780   Turbo Ratio (8-Kerne aktiv)
+5992844 Turbo Power Limit(Watts)
+5992898 Kern-Strom-Limit(Amp)
+5992946 CPU Kern aktiviert
+5992988 Hyper-Threading Technologie
+5993048 CPU erweiterter Halt(C1E)
+5993104 C3/C6 Status Unterst
+5993146 tzung
+5993162 CPU W
+5993174 rme-
+5993184 berwachung
+5993210 CPU EIST Funktion
+5993250 Bi-Direktionaler PROCHOT
+5993304 Host Clock Takt Kontrolle
+5993360 Erweiterte Speicher-Einstellungen
+5993429 Konfigurieren von Speichertakt, XMP Profilen und Speichertimings usw.
+5993570 Extreme Memory Profile(X.M.P.)
+5993633 Profil1
+5993650 Profil2
+5993667 System Speicher Multiplikator
+5993731 Speicherfrequenz(MHz)
+5993776 Leistungsverbesserung
+5993824 Normal
+5993839 Turbo
+5993852 Extrem
+5993867 DRAM Timing ausw
+5993901 hlbar
+5993917 Auto
+5993928 Schnell
+5993945 Experte
+5993962 Profil DDR Spannung
+5994003 Profil VTT Spannung
+5994044 Channel Interleaving
+5994087 Rank Interleaveing
+5994126 Channel A Timing Einstellungen
+5994192 Channel B Timing Einstellungen
+5994258 Channel C Timing Einstellungen
+5994324 Channel D Timing Einstellungen
+5994392  Channel A standard Timing Kontrolle
+5994469  Channel A erweiterte Timing Kontrolle
+5994550  Channel A diverse Timing Kontrolle
+5994628  Channel B standard Timing Kontrolle
+5994705  Channel B erweiterte Timing Kontrolle
+5994786  Channel B diverse Timing Kontrolle
+5994864  Channel C standard Timing Kontrolle
+5994941  Channel C erweiterte Timing Kontrolle
+5995022  Channel C diverse Timing Kontrolle
+5995100  Channel D standard Timing Kontrolle
+5995177  Channel D erweiterte Timing Kontrolle
+5995258  Channel D diverse Timing Kontrolle
+5995334 Erweiterte Spannungs-Einstellungen
+5995405 Konfigurieren von diversen Spannungs-Einstellungen
+5995508 CPU Vcore
+5995532 PC Health Status
+5995570 CPU Vcore
+5995594 Dram Spannung
+5995626 Dram Channel C/D Spannung
+5995682 CPU Temperatur
+5995716 Systemtemperatur
+5995754 PCH Temperatur
+5995788 2. Systemtemperatur
+5995832 3. Systemtemperatur
+5995876 CPU L
+5995888 ftergeschwindigkeit
+5995932 Systeml
+5995948 fter-Geschwindigkeit
+5995994 2. Systeml
+5996016 fter-Geschwindigkeit
+5996062 3. Systeml
+5996084 fter-Geschwindigkeit
+5996130 4. Systeml
+5996152 fter-Geschwindigkeit
+5996198 5. Systeml
+5996220 fter-Geschwindigkeit
+5996266 6. Systeml
+5996288 fter-Geschwindigkeit
+5996334 1. Netzteill
+5996360 fter-Geschwindigkeit
+5996406 CPU Temperaturwarnung
+5996451 Einstellen der Alarmtemparatur.
+5996519 CPU L
+5996531 fterausfall Warnung
+5996572 System L
+5996590 fterausfall Warnung
+5996631 2. System L
+5996655 fterausfall Warnung
+5996696 3. System L
+5996720 fterausfall Warnung
+5996761 4. System L
+5996785 fterausfall Warnung
+5996826 Aktiviere oder deaktiviere die L
+5996892 fterausfall Warnungen
+5996937 Betriebsart der CPU L
+5996981 ftersteuerung
+5997010 Profil der L
+5997036 ftersteuerung
+5997065 Spannung
+5997087 CPU L
+5997099 ftergeschwindigkeits-Kontrolle
+5997162 Profil der L
+5997188 ftersteuerung
+5997217 Systeml
+5997233 fter-Geschwindigkeits-Kontrolle
+5997298 Profil der L
+5997324 ftersteuerung
+5997353 2. Systeml
+5997375 fter-Geschwindigkeits-Kontrolle
+5997440 Profil der L
+5997466 ftersteuerung
+5997498 Steigung oder Neigung der PWM
+5997559 Einstellung der Slope
+5997607 Reset Status bei offenem Geh
+5997674 Aktivieren oder L
+5997710 schen des Case Open Zustand.
+5997775 ffnetes Geh
+5997811 Diverse Einstellungen
+5997856 Konfigurieren von diversen Merkmalen, z.B. Vt-d
+5997953 Isochron-Unterst
+5997987 tzung
+5998003 USB3.0 Unterst
+5998033 tzung
+5998046 Aktivieren/Deaktivieren der USB3.0 (XHCI) Controller Unterst
+5998168 tzung.
+5998183 Aktiviert
+5998204 Deaktiviert
+5998229 Auto
+5998240 Legacy USB Unterst
+5998278 tzung
+5998291 Aktiviert die Legacy USB Unterst
+5998357 tzung. Die AUTO-Option deaktiviert die Legacy Unterst
+5998465 tzung wenn keine USB-Ger
+5998515 te angeschlossen sind. Bei Deaktivierung werden die USB Ger
+5998635 te nur f
+5998653 r EFI Anwendungen als verf
+5998707 gbar angezeigt.
+5998740 XHCI Hand-off
+5998769 Dies ist eine Problemumgehung f
+5998833 r Betriebssysteme ohne XHCI Hand-off Unterst
+5998923 tzung. Das XHCI Eigentum sollte vom XHCI Treiber beansprucht werden.
+5999062 EHCI Hand-off
+5999091 Dies ist eine Problemumgehung f
+5999155 r Betriebssysteme ohne EHCI hand-off Unterst
+5999245 tzung. Das EHCI Eigentum sollte vom EHCI Treiber beansprucht werden.
+5999387 USB Storage Ger
+5999428 Floppy
+5999443 Erzwungene FDD
+5999474 Hard Disk
+5999495 CD-ROM
+5999513 Massenspeicher-Ger
+5999551 t-Emulationstyp. 'AUTO' benennt Ger
+5999623 te nach dem Medienformat. Optische Ger
+5999701 te werden 'CDROM' genannt, Laufwerke ohne Medien werden nach Laufwerkstyp benannt.
+5999868 Port 60/64 Emulation
+5999911 Aktiviert die I/O Port 60h/64h Emulations-Unterst
+6000011 tzung. Dieses sollte f
+6000057 r alle Tastatur-Legacy aktviert sein, falls das Betriebssystem USB nicht unterst
+6000219 tzt.
+6000233 Intel(R) Smart Connect Technologie
+6000304 Intel(R) Smart Connect Technologie Einstellungen
+6000403 ISCT Konfiguration
+6000442 Aktivieren oder Deaktivieren der ISCT Konfiguration
+6000550 Profil speichern
+6000588 Profile laden
+6000620 Initialisierung des Monitors
+6000682 PCI ROM Priorit
+6000719 Bei multiplen optionalen ROMs (Legacy und EFI kompatibel) bitte ausw
+6000857 hlen, welche PCI Option ROM gestartet werden soll.
+6000960 Legacy ROM
+6000983 EFI kompatibles ROM
+6001362  BIOS
+6001448  BIOS
+6001472  BIOS
+6002374  BIOS
+6002429  BIOS
+6002642  Timeout
+6002799  65535(0xFFFF) 
+6002900 NumLock 
+6002995  NumLock 
+6003149  #%d
+6004444  ACPI
+6004501  ACPI, 
+6004612 S1 (CPU Stop Clock)
+6004653 S3 (Suspend to RAM)
+6005081     
+6005150  31. 
+6005313     
+6005357     
+6005407     
+6006128  (Windows Server 2003 SP1, Windows XP SP2, SuSE Linux 9.2, RedHat Enterprise 3 Update 3) 
+6006320  XD-Bit 
+6006560  CPUID
+6006601  Windows XP
+6006649  Intel Virtualization
+6006730 , VMM 
+6006926  Vanderpool.
+6007135  SATA
+6007173  SATA
+6007224  SATA 
+6007299  SATA
+6007356  SATA-
+6007412 AHCI
+6007423 RAID
+6007724  xHCI
+6007761  xHCI-
+6007830  HS 
+6007885  HS 
+6007940  HS 
+6007995  HS 
+6008023   xHCI 
+6008188   xHCI-
+6008267  XHCI 
+6008386  XHCI-
+6008437  USB2.0
+6008474  USB2.0 2
+6008529  USB EHCI (USB 2.0). * 
+6008607  EHCI-
+6008739  Erp.
+6008817  (HPET)
+6008998  Power
+6009149  Power. [
+6009273  Power 4 
+6010050  DVMT
+6010219  DVMT 5.0
+6010634  RC6 (RC+).
+6010757  IGFX/PEG/PCI 
+6010895  SG 
+6011260  Intel
+6011274  Rapid Start
+6011316  BIOS
+6011596  C/D
+6011644  M.I.T.
+6011737  M.I.T.
+6012329  BCLK, PCI-E, 
+6012575  PLL 
+6012715  Intel(R) Turbo Boost
+6012797  (1 
+6012873  (2 
+6012949  (3 
+6013025  (4 
+6013101  (5 
+6013177  (6 
+6013253  (7 
+6013329  (8 
+6013547  Hyper-Threading
+6013757  EIST
+6013825  PROCHOT
+6013879  Host Clock
+6014034  XMP, 
+6014137 (X.M.P.)
+6014517  DDR
+6014548  VTT
+6016401  C/D
+6016515  PCH
+6017640  2# 
+6017737  3# 
+6017834  4# 
+6018677  PWM
+6019174  USB 3.0
+6019251  USB3.0 (XHCI).
+6019373  USB
+6019444  USB. 
+6019602  USB 
+6019688  USB 
+6019736  EFI 
+6019781  XHCI Hand-off
+6019888  XHCI Hand-off. 
+6020012  XHCI.
+6020037  EHCI Hand-off
+6020144  EHCI hand-off. 
+6020268  EHCI.
+6020286 USB 
+6020847  60/64
+6020910  60h/64h. 
+6020982  USB 
+6021062  USB.
+6021098  Intel
+6021112  Smart Connect
+6021197  Intel
+6021211  Smart Connect
+6021260  ISCT
+6021331  ISCT
+6021515  PCI ROM
+6021582  PCI ROM (
+6021702  EFI-
+6021842 EFI 
+6022035 BIOS 
+6022101 BIOS 
+6022127 BIOS
+6022483 BIOS
+6022506 BIOS
+6022527 LOGO
+6022562 LOGO
+6022619 [Setup]
+6022650 [Setup]
+6022696 ). 65535(0xFFFF)
+6022765 [NumLock]
+6022808 [NumLock]
+6022888  #%d
+6023403 ACPI 
+6023428 SUSPEND(
+6023482 ACPI
+6023517 S1 (CPU
+6023548 S3 (RAM
+6023622 Trusted Computing (TPM) 
+6023677   TPM 
+6023700   TCM 
+6023723   TPM 
+6023746   TCM 
+6023792 TPM 
+6023822 :TPM
+6023901 TPM 
+6023918 TCM 
+6024051 TPM 
+6024098   TPM 
+6024137   TCM 
+6024176   TPM
+6024215   TCM
+6024333   TPM 
+6024368   TCM 
+6024469   TPM
+6024506   TPM 
+6024731     
+6024752 :0-31
+6024823     
+6024847     
+6024869     
+6025156 XD-Bit 
+6025210 Windows Server 2003 SP1, Windows XP SP2, SuSE Linux 9.2, RedHat Enterprise 3 Update 3
+6025466 CPUID
+6025491 Windows XP
+6025535 Intel Virtualization Technology(
+6025668 Vanderpool Technology
+6025766 LAN PXE
+6025873 SATA
+6025891 SATA
+6025916 SATA
+6025957 SATA
+6025978 SATA
+6026030 AHCI
+6026041 RAID
+6026126 Disabled = 
+6026192 Enabled = 
+6026254 xHCI
+6026271 XHCI
+6026443   xHCI
+6026468 xHCI Maximum Primary Stream Array Size
+6026569 XHCI
+6026602 XHCI
+6026663 USB2.0 
+6026694 USB2.0 
+6026729 USB EHCI (USB 2.0)
+6026799 EHCI
+6026956 PWR-BTTN
+6027003 OFF]: 
+6027430 DVMT
+6027493 DVMT5.0
+6027708 Deep RC6 (RC6+)
+6027819 IGFX/PEG/PCI
+6028104 (R) 
+6028150 BIOS 
+6028176 CPU 
+6028234 CPU 
+6028264 DRAM 
+6028284 DRAM 
+6028304  C/D 
+6028324 M.I.T. 
+6028355 M.I.T. 
+6028406 CPU 
+6028447 (MHz)
+6028489 (MHz)
+6028693 CPU BCLK, 
+6028727 , PCIe
+6028760 CPU 
+6028786 CPU 
+6029419 CPU 
+6029435 (C1E)
+6029451 C3/C6 
+6029487 CPU 
+6029513 CPU 
+6029531 (EIST)
+6029555 PROCHOT
+6029579 Host Clock
+6029652 , XMP prfoles, 
+6029749 (X.M.P.)
+6029848 (MHz)
+6029930 DRAM
+6029983 Profile DDR
+6030012 Profile VTT
+6030781 CPU V
+6030801 PC Health Status
+6030839 CPU V
+6030859 Dram 
+6030879 Dram
+6030897 C/D 
+6030915 CPU 
+6030953 PCH 
+6031019 CPU 
+6031526 CPU 
+6031861 Vt-d
+6031900 USB3.0 
+6031923 USB3.0(XHCI)
+6032215 XHCI
+6032242 XHCI
+6032294 XHCI
+6032330 , XHCI
+6032367 EHCI
+6032394 EHCI
+6032446 EHCI
+6032482 , EHCI
+6032522 USB 
+6032566 Forced FDD
+6032606 CD-ROM
+6032762 CDROM
+6032877 60/64
+6032920 60h/64h
+6033002 , USB
+6033074 (R) 
+6033125 (R) 
+6033172 ISCT
+6033187 ISCT
+6033642 BIOS 
+6033664 Core 
+6033684 Compliancy
+6033710 BIOS 
+6033730 BIOS 
+6033937 ATA Port 
+6033962 ATA Port 
+6034060 BIOS 
+6034081 BIOS
+6034197  65535(0xFFFF) 
+6034321  #%d
+6034748 ACPI 
+6034805 ACPI
+6034826 S1 (CPU Stop Clock)
+6034867 S3 (Suspend to RAM)
+6034943 Trusted Computing (TPM) 
+6034998   TPM 
+6035017   TCM 
+6035036   TPM 
+6035055   TCM 
+6035099  TPM
+6035292 TPM 
+6035331   TPM 
+6035354   TCM 
+6035377   TPM 
+6035402   TCM 
+6035482   TPM 
+6035509   TCM 
+6035633   TPM 
+6035796     
+6035825 0-31, 
+6035888     
+6035916     
+6035944     
+6036138  (XD-Bit)
+6036159 XD-Bit 
+6036225 Windows Server 2003 SP1, Windows XP SP2, SuSE Linux 9.2, RedHat Enterprise 3 Update 3.
+6036409 CPUID
+6036432 Windows XP
+6036470 Intel
+6036551 Virtual Machine Monitor
+6036651 PXE ROM
+6036718 SATA
+6036745 SATA
+6036762 SATA
+6036785 SATA
+6036827 AHCI
+6036842 RAID
+6036903 Disabled = 
+6036953 Enabled = 
+6036999 xHCI
+6037014 xHCI
+6037041   HS Port #1
+6037072   HS Port #2
+6037103   HS Port #3
+6037134   HS Port #4
+6037168   xHCI
+6037197 xHCI
+6037226 XHCI
+6037265 XHCI Pre-Boot 
+6037302 USB2.0 
+6037325 USB2.0 
+6037356 USB EHCI (USB 2.0)
+6037412 EHCI
+6037906 DVMT 5.0
+6038037 RC6+
+6038110 , IGFX(
+6038132 )/PEG(PCI-E
+6038158 )/PCI(PCI
+6038297 Intel(R)
+6038331 BIOS 
+6038351 CPU 
+6038401 CPU 
+6038457  C/D 
+6038481 M.I.T. 
+6038514 M.I.T. 
+6038543 CPU 
+6038565 Turbo Ratio
+6038590 Turbo 
+6038606 (MHz)
+6038619 Non-Turbo Ratio
+6038652 Non-Turbo 
+6038676 (MHz)
+6038689 CPU 
+6038866 PCIe
+6038887 CPU 
+6038909 CPU 
+6038956 CPU PLL
+6039018 Intel(R) Turbo Boost 
+6039070   Turbo Ratio (1-
+6039116   Turbo Ratio (2-
+6039162   Turbo Ratio (3-
+6039208   Turbo Ratio (4-
+6039254   Turbo Ratio (5-
+6039300   Turbo Ratio (6-
+6039346   Turbo Ratio (7-
+6039392   Turbo Ratio (8-
+6039442 Turbo
+6039540 Hyper-Threading 
+6039582 CPU Enhanced Halt(C1E)
+6039646 C3/C6
+6039666 CPU 
+6039688 CPU EIST 
+6039716 Bi-Directional PROCHOT
+6039766 CPU/PCIe 
+6039821 , XMP 
+6039860 Extreme Memory Profile(X.M.P.)
+6039923 Profile1
+6039942 Profile2
+6039987 (MHz)
+6040029 Turbo 
+6040048 Extreme 
+6040126 Profile 
+6040153 Profile VTT
+6040182 Channel Interleaving
+6040225 Rank Interleaveing
+6040724 CPU 
+6040764 CPU 
+6040808 C/D 
+6040826 CPU 
+6040858 PCH 
+6040916 CPU 
+6041335 CPU 
+6041572 Congiure miscellaneous features, e.g. Vt-d
+6041663  Isochronous
+6041693 USB3.0 
+6041730 USB3.0 (XHCI)
+6041845 AUTO 
+6041899 DISABLE 
+6041954 XHCI Hand-off
+6042007 XHCI
+6042039 XHCI
+6042063 XHCI
+6042088 EHCI Hand-off
+6042141 EHCI
+6042173 EHCI
+6042197 EHCI
+6042225 USB 
+6042305 'AUTO'
+6042345 Optical drive 
+6042452  60/64 
+6042491  60h/64h 
+6042525 Intel(R)
+6042556 Intel(R)
+6042591 ISCT
+6042616 ISCT
+6042638  Profiles
+6042666  Profiles
+6042714 PCI ROM
+6042749 ROMs
+6042765 (Legacy and EFI Compatible), 
+6042835 PCI ROM
+6043045 BIOS 
+6043067 Core 
+6043087 Compliancy
+6043113 BIOS 
+6043133 BIOS 
+6043344 ATA Port 
+6043369 ATA Port 
+6043467 BIOS 
+6043488 BIOS
+6043604  65535(0xFFFF) 
+6043728  #%d
+6044157 ACPI 
+6044214 ACPI
+6044235 S1 (CPU Stop Clock)
+6044276 S3 (Suspend to RAM)
+6044352 Trusted Computing (TPM) 
+6044407   TPM 
+6044426   TCM 
+6044445   TPM 
+6044464   TCM 
+6044508  TPM
+6044701 TPM 
+6044740   TPM 
+6044763   TCM 
+6044786   TPM 
+6044811   TCM 
+6044891   TPM 
+6044918   TCM 
+6045042   TPM 
+6045205     
+6045234 0-31, 
+6045297     
+6045325     
+6045353     
+6045549  (XD-Bit)
+6045570 XD-Bit 
+6045636 Windows Server 2003 SP1, Windows XP SP2, SuSE Linux 9.2, RedHat Enterprise 3 Update 3.
+6045820 CPUID
+6045843 Windows XP
+6045881 Intel
+6045964 Virtual Machine Monitor
+6046064 PXE ROM
+6046131 SATA
+6046149 SATA
+6046176 SATA
+6046193 SATA
+6046216 SATA
+6046258 AHCI
+6046273 RAID
+6046334 Disabled = 
+6046384 Enabled = 
+6046430 xHCI
+6046445 xHCI
+6046472   HS Port #1
+6046503   HS Port #2
+6046534   HS Port #3
+6046565   HS Port #4
+6046599   xHCI
+6046628 xHCI
+6046657 XHCI
+6046696 XHCI Pre-Boot 
+6046733 USB2.0 
+6046756 USB2.0 
+6046787 USB EHCI (USB 2.0)
+6046843 EHCI
+6047341 DVMT 5.0
+6047474 RC6+
+6047547 , IGFX(
+6047569 )/PEG(PCI-E
+6047597 )/PCI(PCI
+6047738 Intel(R)
+6047772 BIOS 
+6047792 CPU 
+6047846 CPU 
+6047906  C/D 
+6047930 M.I.T. 
+6047963 M.I.T. 
+6047992 CPU 
+6048014 Turbo Ratio
+6048039 Turbo 
+6048055 (MHz)
+6048068 Non-Turbo Ratio
+6048101 Non-Turbo 
+6048125 (MHz)
+6048138 CPU 
+6048325 PCIe
+6048346 CPU 
+6048368 CPU 
+6048415 CPU PLL
+6048477 Intel(R) Turbo Boost 
+6048529   Turbo Ratio (1-
+6048575   Turbo Ratio (2-
+6048621   Turbo Ratio (3-
+6048667   Turbo Ratio (4-
+6048713   Turbo Ratio (5-
+6048759   Turbo Ratio (6-
+6048805   Turbo Ratio (7-
+6048851   Turbo Ratio (8-
+6048901 Turbo
+6048999 Hyper-Threading 
+6049041 CPU Enhanced Halt(C1E)
+6049105 C3/C6
+6049125 CPU 
+6049147 CPU EIST 
+6049175 Bi-Directional PROCHOT
+6049225 CPU/PCIe 
+6049284 , XMP 
+6049325 Extreme Memory Profile(X.M.P.)
+6049388 Profile1
+6049407 Profile2
+6049456 (MHz)
+6049498 Turbo 
+6049517 Extreme 
+6049597 Profile 
+6049626 Profile VTT
+6049655 Channel Interleaving
+6049698 Rank Interleaveing
+6050197 CPU 
+6050237 CPU 
+6050285 C/D 
+6050303 CPU 
+6050335 PCH 
+6050393 CPU 
+6050812 CPU 
+6051049 Congiure miscellaneous features, e.g. Vt-d
+6051140  Isochronous
+6051170 USB3.0 
+6051207 USB3.0 (XHCI)
+6051322 AUTO 
+6051376 DISABLE 
+6051431 XHCI Hand-off
+6051484 XHCI
+6051516 XHCI
+6051540 XHCI
+6051565 EHCI Hand-off
+6051618 EHCI
+6051650 EHCI
+6051674 EHCI
+6051702 USB 
+6051788 'AUTO'
+6051828 Optical drive 
+6051935  60/64 
+6051972  60h/64h 
+6052006 Intel(R)
+6052037 Intel(R)
+6052072 ISCT
+6052097 ISCT
+6052119  Profiles
+6052147  Profiles
+6052195 PCI ROM
+6052230 ROMs
+6052246 (Legacy and EFI Compatible), 
+6052316 PCI ROM
+6119637 Setup
+6601857 ONBOARD DEV EXTENDED DATA
+6601913 BATTERY DATA
+6601945 MEMORY DATA
+6601969 ONBOARD DEV DATA
+6602009 SLOTS DATA
+6602033 CPU DATA
+6602057 CHASSIS DATA
+6602089 BASEBOARD DATA
+6603749 CRBDXE
+6606313 ONBOARD DEV EXTENDED DATA
+6606369 BATTERY DATA
+6606401 MEMORY DATA
+6606425 ONBOARD DEV DATA
+6606465 SLOTS DATA
+6606489 CPU DATA
+6606513 CHASSIS DATA
+6606545 BASEBOARD DATA
+6608557 CRBSMI
+6609189 CspLibDxe
+6615048 FV_MAIN_NESTED
